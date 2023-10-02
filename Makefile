@@ -8,4 +8,4 @@ data/counts_by_housing.csv :
 	python scripts/fetch.py https://airtable.com/appO5SjrHmmAvfP27/shruAqPVt8oC3FBE7/tblpyIyCHnFKNyqNk > $@
 
 data/census.csv :
-	python scripts/fetch.py https://airtable.com/appO5SjrHmmAvfP27/shry2PecOSQ6MzwpY/tblwMC5zIjt6pINLx > $@
+	python scripts/fetch.py https://airtable.com/appO5SjrHmmAvfP27/shrY831lrVyARjFXm/tblwMC5zIjt6pINLx > $@
