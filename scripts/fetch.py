@@ -12,7 +12,7 @@ session.headers.update(
 )
 
 response = session.get(
-    "https://airtable.com/appO5SjrHmmAvfP27/shrYnsCb5j4NnoWTG/tblgI0KbgdTmF2YkJ",
+    sys.argv[1]
 )
 json_str = re.search("window.initData = ({.*?});", response.text).group(1)
 
@@ -25,7 +25,7 @@ params = {
 }
 
 response = session.get(
-    "https://airtable.com/v0.3/view/viwT9G6w3PwLyAgJm/downloadCsv", params=params
+    f"https://airtable.com/v0.3/view/{init_data['sharedViewId']}/downloadCsv", params=params
 )
 
 print(response.text.replace("ï»¿", ""))

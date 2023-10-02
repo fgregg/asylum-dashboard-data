@@ -1,28 +1,148 @@
-ID,Housing Location,Housing Type,Designation,Ward,Current # of People,Data Received Date
-O'Hare Airport - Staging Area,O'Hare Airport,Staging Area,,,,
-Midway Airport - Staging Area,Midway Airport,Staging Area,,,,
-Police Districts (All) - Staging Area,Police Districts (All),Staging Area,,,,
-Social Club - Shelter,Social Club,Shelter,Singles,4,,
-YWLA - Shelter,YWLA,Shelter,Singles,4,,
-Gage Park - Shelter,Gage Park,Shelter,Singles,15,,
-Daley College - Shelter,Daley College,Shelter,Families,18,,
-Wadsworth - Shelter,Wadsworth,Shelter,Singles,20,,
-Piotrowski Park - Shelter,Piotrowski Park,Shelter,Families,22,,
-Brands Park - Shelter,Brands Park,Shelter,Families,33,,
-North Park Village - Shelter,North Park Village,Shelter,Families,39,,
-Inn of Chicago - Shelter,Inn of Chicago,Shelter,Families,42,,
-Leone Beach - Shelter,Leone Beach,Shelter,Families,49,,
-High Ridge YMCA - Shelter,High Ridge YMCA,Shelter,Singles,50,,
-Super 8 Motel - Shelter,Super 8 Motel,Shelter,Families,49,,
-Near South Health Center - Shelter,Near South Health Center,Shelter,Singles,3,,
-American Islamic College - Shelter,American Islamic College,Shelter,Families,46,,
-Broadway Armory - Shelter,Broadway Armory,Shelter,Families,48,,
-Wright College - Shelter,Wright College,Shelter,Families,38,,
-New Life Church - Shelter,New Life Church,Shelter,Families,32,,
-Harold Washington Library - Shelter,Harold Washington Library,Shelter,Families,4,,
-Shield of Hope - Shelter,Shield of Hope,Shelter,Families,27,,
-Lakeshore Hotel - Shelter,Lakeshore Hotel,Shelter,Singles,5,,
-Parthenon - Shelter,Parthenon,Shelter,Singles,34,,
-Walnut - Shelter,Walnut,Shelter,Families,27,,
-Ogden - Shelter,Ogden,Shelter,Families,27,,
-MWRD - Shelter,MWRD,Shelter,Families,39,,
+ID,Country of Origin,of People,of Minors,Data Received Date,Status
+- 2023-09-22,,,2676,9/22/2023,Old Census Update
+Venezuela- 2023-09-22,Venezuela,257,,9/22/2023,Old Census Update
+Colombia- 2023-09-22,Colombia,18,,9/22/2023,Old Census Update
+Ecuador- 2023-09-22,Ecuador,13,,9/22/2023,Old Census Update
+Honduras- 2023-09-22,Honduras,1,,9/22/2023,Old Census Update
+Unknown- 2023-09-22,Unknown,12,,9/22/2023,Old Census Update
+Africa- 2023-09-22,Africa,1,,9/22/2023,Old Census Update
+- 2023-09-22,,5322,,9/22/2023,Old Census Update
+- 2023-09-22,,,646,9/22/2023,Old Census Update
+- 2023-09-22,,14500,,9/22/2023,Old Census Update
+- 2023-09-15,,,2341,9/15/2023,Old Census Update
+Venezuela- 2023-09-15,Venezuela,113,,9/15/2023,Old Census Update
+Colombia- 2023-09-15,Colombia,3,,9/15/2023,Old Census Update
+Ecuador- 2023-09-15,Ecuador,12,,9/15/2023,Old Census Update
+Mexico- 2023-09-15,Mexico,1,,9/15/2023,Old Census Update
+Unknown- 2023-09-15,Unknown,4,,9/15/2023,Old Census Update
+- 2023-09-15,,5119,,9/15/2023,Old Census Update
+- 2023-09-15,,,705,9/15/2023,Old Census Update
+- 2023-09-15,,14000,,9/15/2023,Old Census Update
+- 2023-09-08,,,2124,9/8/2023,Old Census Update
+Venezuela- 2023-09-08,Venezuela,381,,9/8/2023,Old Census Update
+Colombia- 2023-09-08,Colombia,9,,9/8/2023,Old Census Update
+Ecuador- 2023-09-08,Ecuador,7,,9/8/2023,Old Census Update
+Haiti- 2023-09-08,Haiti,21,,9/8/2023,Old Census Update
+Honduras- 2023-09-08,Honduras,1,,9/8/2023,Old Census Update
+Mexico- 2023-09-08,Mexico,5,,9/8/2023,Old Census Update
+Unknown- 2023-09-08,Unknown,18,,9/8/2023,Old Census Update
+Africa- 2023-09-08,Africa,0,,9/8/2023,Old Census Update
+- 2023-09-08,,4840,,9/8/2023,Old Census Update
+- 2023-09-08,,,472,9/8/2023,Old Census Update
+- 2023-09-08,,13500,,9/8/2023,Old Census Update
+- 2023-09-01,,,1965,9/1/2023,Old Census Update
+Venezuela- 2023-09-01,Venezuela,254,,9/1/2023,Old Census Update
+Colombia- 2023-09-01,Colombia,10,,9/1/2023,Old Census Update
+Honduras- 2023-09-01,Honduras,1,,9/1/2023,Old Census Update
+Mexico- 2023-09-01,Mexico,5,,9/1/2023,Old Census Update
+Unknown- 2023-09-01,Unknown,10,,9/1/2023,Old Census Update
+- 2023-09-01,,4499,,9/1/2023,Old Census Update
+- 2023-09-01,,,705,9/1/2023,Old Census Update
+- 2023-09-01,,13500,,9/1/2023,Old Census Update
+- 2023-08-25,,,1897,8/25/2023,Old Census Update
+Venezuela- 2023-08-25,Venezuela,116,,8/25/2023,Old Census Update
+Colombia- 2023-08-25,Colombia,6,,8/25/2023,Old Census Update
+Haiti- 2023-08-25,Haiti,1,,8/25/2023,Old Census Update
+Honduras- 2023-08-25,Honduras,5,,8/25/2023,Old Census Update
+Mexico- 2023-08-25,Mexico,9,,8/25/2023,Old Census Update
+- 2023-08-25,,4225,,8/25/2023,Old Census Update
+- 2023-08-25,,,473,8/25/2023,Old Census Update
+- 2023-08-25,,13000,,8/25/2023,Old Census Update
+- 2023-08-18,,,1805,8/18/2023,Old Census Update
+Venezuela- 2023-08-18,Venezuela,116,,8/18/2023,Old Census Update
+Colombia- 2023-08-18,Colombia,5,,8/18/2023,Old Census Update
+Ecuador- 2023-08-18,Ecuador,9,,8/18/2023,Old Census Update
+Honduras- 2023-08-18,Honduras,1,,8/18/2023,Old Census Update
+Unknown- 2023-08-18,Unknown,6,,8/18/2023,Old Census Update
+- 2023-08-18,,4124,,8/18/2023,Old Census Update
+- 2023-08-18,,,316,8/18/2023,Old Census Update
+- 2023-08-18,,13000,,8/18/2023,Old Census Update
+- 2023-08-11,,,1739,8/11/2023,Old Census Update
+Venezuela- 2023-08-11,Venezuela,113,,8/11/2023,Old Census Update
+Colombia- 2023-08-11,Colombia,3,,8/11/2023,Old Census Update
+Ecuador- 2023-08-11,Ecuador,9,,8/11/2023,Old Census Update
+Peru- 2023-08-11,Peru,2,,8/11/2023,Old Census Update
+Honduras- 2023-08-11,Honduras,1,,8/11/2023,Old Census Update
+Mexico- 2023-08-11,Mexico,7,,8/11/2023,Old Census Update
+Unknown- 2023-08-11,Unknown,2,,8/11/2023,Old Census Update
+- 2023-08-11,,3995,,8/11/2023,Old Census Update
+- 2023-08-11,,,316,8/11/2023,Old Census Update
+- 2023-08-11,,12000,,8/11/2023,Old Census Update
+- 2023-08-04,,,1714,8/4/2023,Old Census Update
+Venezuela- 2023-08-04,Venezuela,128,,8/4/2023,Old Census Update
+Mexico- 2023-08-04,Mexico,1,,8/4/2023,Old Census Update
+Other- 2023-08-04,Other,2,,8/4/2023,Old Census Update
+Africa- 2023-08-04,Africa,1,,8/4/2023,Old Census Update
+Chile- 2023-08-04,Chile,1,,8/4/2023,Old Census Update
+- 2023-08-04,,3840,,8/4/2023,Old Census Update
+- 2023-08-04,,,257,8/4/2023,Old Census Update
+- 2023-08-04,,12000,,8/4/2023,Old Census Update
+- 2023-07-28,,,1560,7/28/2023,Old Census Update
+Venezuela- 2023-07-28,Venezuela,84,,7/28/2023,Old Census Update
+Colombia- 2023-07-28,Colombia,4,,7/28/2023,Old Census Update
+Ecuador- 2023-07-28,Ecuador,5,,7/28/2023,Old Census Update
+Honduras- 2023-07-28,Honduras,3,,7/28/2023,Old Census Update
+Mexico- 2023-07-28,Mexico,4,,7/28/2023,Old Census Update
+El Salvador- 2023-07-28,El Salvador,3,,7/28/2023,Old Census Update
+Unknown- 2023-07-28,Unknown,5,,7/28/2023,Old Census Update
+Other- 2023-07-28,Other,1,,7/28/2023,Old Census Update
+- 2023-07-28,,3670,,7/28/2023,Old Census Update
+- 2023-07-28,,,295,7/28/2023,Old Census Update
+- 2023-07-28,,11500,,7/28/2023,Old Census Update
+- 2023-07-21,,,1437,7/21/2023,Old Census Update
+Venezuela- 2023-07-21,Venezuela,70,,7/21/2023,Old Census Update
+Colombia- 2023-07-21,Colombia,8,,7/21/2023,Old Census Update
+Ecuador- 2023-07-21,Ecuador,3,,7/21/2023,Old Census Update
+El Salvador- 2023-07-21,El Salvador,3,,7/21/2023,Old Census Update
+Other- 2023-07-21,Other,1,,7/21/2023,Old Census Update
+Guatemala- 2023-07-21,Guatemala,1,,7/21/2023,Old Census Update
+Panama- 2023-07-21,Panama,1,,7/21/2023,Old Census Update
+- 2023-07-21,,3465,,7/21/2023,Old Census Update
+- 2023-07-21,,,290,7/21/2023,Old Census Update
+- 2023-07-21,,11500,,7/21/2023,Old Census Update
+- 2023-07-14,,,1400,7/14/2023,Old Census Update
+Venezuela- 2023-07-14,Venezuela,219,,7/14/2023,Old Census Update
+Colombia- 2023-07-14,Colombia,6,,7/14/2023,Old Census Update
+Guatemala- 2023-07-14,Guatemala,1,,7/14/2023,Old Census Update
+- 2023-07-14,,3246,,7/14/2023,Old Census Update
+- 2023-07-14,,,115,7/14/2023,Old Census Update
+- 2023-07-14,,11000,,7/14/2023,Old Census Update
+- 2023-07-07,,,1359,7/7/2023,Old Census Update
+Venezuela- 2023-07-07,Venezuela,110,,7/7/2023,Old Census Update
+Colombia- 2023-07-07,Colombia,1,,7/7/2023,Old Census Update
+Guatemala- 2023-07-07,Guatemala,1,,7/7/2023,Old Census Update
+- 2023-07-07,,2542,,7/7/2023,Old Census Update
+- 2023-07-07,,,220,7/7/2023,Old Census Update
+- 2023-07-07,,11000,,7/7/2023,Old Census Update
+- 2023-06-30,,,1317,6/30/2023,Old Census Update
+Venezuela- 2023-06-30,Venezuela,143,,6/30/2023,Old Census Update
+Nicaragua- 2023-06-30,Nicaragua,7,,6/30/2023,Old Census Update
+Mexico- 2023-06-30,Mexico,1,,6/30/2023,Old Census Update
+Unknown- 2023-06-30,Unknown,6,,6/30/2023,Old Census Update
+Other- 2023-06-30,Other,4,,6/30/2023,Old Census Update
+- 2023-06-30,,,213,6/30/2023,Old Census Update
+- 2023-06-30,,11000,,6/30/2023,Old Census Update
+- 2023-06-23,,,1288,6/23/2023,Old Census Update
+Venezuela- 2023-06-23,Venezuela,107,,6/23/2023,Old Census Update
+Colombia- 2023-06-23,Colombia,2,,6/23/2023,Old Census Update
+Ecuador- 2023-06-23,Ecuador,1,,6/23/2023,Old Census Update
+Peru- 2023-06-23,Peru,3,,6/23/2023,Old Census Update
+Mexico- 2023-06-23,Mexico,1,,6/23/2023,Old Census Update
+Unknown- 2023-06-23,Unknown,5,,6/23/2023,Old Census Update
+Other- 2023-06-23,Other,2,,6/23/2023,Old Census Update
+Africa- 2023-06-23,Africa,1,,6/23/2023,Old Census Update
+- 2023-06-23,,,73,6/23/2023,Old Census Update
+- 2023-06-23,,10500,,6/23/2023,Old Census Update
+- 2023-06-16,,,1219,6/16/2023,Old Census Update
+Venezuela- 2023-06-16,Venezuela,128,,6/16/2023,Old Census Update
+Colombia- 2023-06-16,Colombia,1,,6/16/2023,Old Census Update
+Ecuador- 2023-06-16,Ecuador,1,,6/16/2023,Old Census Update
+Nicaragua- 2023-06-16,Nicaragua,1,,6/16/2023,Old Census Update
+Mexico- 2023-06-16,Mexico,7,,6/16/2023,Old Census Update
+El Salvador- 2023-06-16,El Salvador,3,,6/16/2023,Old Census Update
+Unknown- 2023-06-16,Unknown,1,,6/16/2023,Old Census Update
+Other- 2023-06-16,Other,5,,6/16/2023,Old Census Update
+Panama- 2023-06-16,Panama,1,,6/16/2023,Old Census Update
+Russia- 2023-06-16,Russia,2,,6/16/2023,Old Census Update
+- 2023-06-16,,,35,6/16/2023,Old Census Update
+- 2023-06-16,,10000,,6/16/2023,Old Census Update

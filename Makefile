@@ -1,5 +1,5 @@
 .PHONY : all
-all : housing_locations.csv counts_by_housing.csv census.csv
+all : data/housing_locations.csv data/counts_by_housing.csv data/census.csv
 
 data/housing_locations.csv :
 	python scripts/fetch.py https://airtable.com/appO5SjrHmmAvfP27/shrYnsCb5j4NnoWTG/tblgI0KbgdTmF2YkJ > $@
