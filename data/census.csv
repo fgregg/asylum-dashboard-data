@@ -1,30 +1,53 @@
 ID,Country of Origin,Housing Status,Family Unit,of People,of Minors,Data Received Date,Status
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
-- 2023-10-07,,,,,,10/7/2023,Latest Census Update
+- 2023-09-29,,Currently in Shelter,,,3178,9/29/2023,Latest Census Update
+- 2023-09-29,,Exited Shelter,,5498,,9/29/2023,Latest Census Update
+- 2023-09-29,,Currently in Staging Area,,,579,9/29/2023,Latest Census Update
+- 2023-09-29,,Total Arrivals To Date,,15500,,9/29/2023,Latest Census Update
+- 2023-09-29,,,Single Men,2488,,9/29/2023,Latest Census Update
+- 2023-09-29,,,Single Women,446,,9/29/2023,Latest Census Update
+- 2023-09-29,,,Individuals in Family Units,6427,,9/29/2023,Latest Census Update
+Venezuela- 2023-09-29,Venezuela,Requesting Shelter,,280,,9/29/2023,Latest Census Update
+Venezuela- 2023-09-29,Venezuela,,,6816,,9/29/2023,Latest Census Update
+Colombia- 2023-09-29,Colombia,,,384,,9/29/2023,Latest Census Update
+Colombia- 2023-09-29,Colombia,Requesting Shelter,,7,,9/29/2023,Latest Census Update
+Ecuador- 2023-09-29,Ecuador,,,100,,9/29/2023,Latest Census Update
+Ecuador- 2023-09-29,Ecuador,Requesting Shelter,,3,,9/29/2023,Latest Census Update
+Nicaragua- 2023-09-29,Nicaragua,,,45,,9/29/2023,Latest Census Update
+Peru- 2023-09-29,Peru,,,42,,9/29/2023,Latest Census Update
+Haiti- 2023-09-29,Haiti,,,167,,9/29/2023,Latest Census Update
+Honduras- 2023-09-29,Honduras,,,35,,9/29/2023,Latest Census Update
+Mexico- 2023-09-29,Mexico,Requesting Shelter,,3,,9/29/2023,Latest Census Update
+Mexico- 2023-09-29,Mexico,,,17,,9/29/2023,Latest Census Update
+Angola- 2023-09-29,Angola,,,20,,9/29/2023,Latest Census Update
+Unknown- 2023-09-29,Unknown,Requesting Shelter,,15,,9/29/2023,Latest Census Update
+Guatemala- 2023-09-29,Guatemala,,,10,,9/29/2023,Latest Census Update
+Mauritania- 2023-09-29,Mauritania,,,12,,9/29/2023,Latest Census Update
+Brazil- 2023-09-29,Brazil,,,10,,9/29/2023,Latest Census Update
 - 2023-09-22,,Currently in Shelter,,,2676,9/22/2023,Old Census Update
-- 2023-09-22,,,Single Men,2469,,9/22/2023,Old Census Update
 - 2023-09-22,,Exited Shelter,,5322,,9/22/2023,Old Census Update
 - 2023-09-22,,Currently in Staging Area,,,646,9/22/2023,Old Census Update
-- 2023-09-22,,,Individuals in Family Units,5475,,9/22/2023,Old Census Update
-- 2023-09-22,,,Single Women,416,,9/22/2023,Old Census Update
 - 2023-09-22,,Total Arrivals To Date,,14500,,9/22/2023,Old Census Update
+- 2023-09-22,,,Single Men,2469,,9/22/2023,Old Census Update
+- 2023-09-22,,,Single Women,416,,9/22/2023,Old Census Update
+- 2023-09-22,,,Individuals in Family Units,5475,,9/22/2023,Old Census Update
 Venezuela- 2023-09-22,Venezuela,Requesting Shelter,,257,,9/22/2023,Old Census Update
+Venezuela- 2023-09-22,Venezuela,,,6208,,9/22/2023,Old Census Update
 Colombia- 2023-09-22,Colombia,Requesting Shelter,,18,,9/22/2023,Old Census Update
+Colombia- 2023-09-22,Colombia,,,346,,9/22/2023,Old Census Update
 Ecuador- 2023-09-22,Ecuador,Requesting Shelter,,13,,9/22/2023,Old Census Update
+Ecuador- 2023-09-22,Ecuador,,,87,,9/22/2023,Old Census Update
+Nicaragua- 2023-09-22,Nicaragua,,,49,,9/22/2023,Old Census Update
+Peru- 2023-09-22,Peru,,,39,,9/22/2023,Old Census Update
+Haiti- 2023-09-22,Haiti,,,154,,9/22/2023,Old Census Update
 Honduras- 2023-09-22,Honduras,Requesting Shelter,,1,,9/22/2023,Old Census Update
+Honduras- 2023-09-22,Honduras,,,40,,9/22/2023,Old Census Update
+Mexico- 2023-09-22,Mexico,,,14,,9/22/2023,Old Census Update
+Angola- 2023-09-22,Angola,,,20,,9/22/2023,Old Census Update
 Unknown- 2023-09-22,Unknown,Requesting Shelter,,12,,9/22/2023,Old Census Update
+Unknown- 2023-09-22,Unknown,,,2085,,9/22/2023,Old Census Update
+Other- 2023-09-22,Other,,,10,,9/22/2023,Old Census Update
 Africa- 2023-09-22,Africa,Requesting Shelter,,1,,9/22/2023,Old Census Update
+Mauritania- 2023-09-22,Mauritania,,,12,,9/22/2023,Old Census Update
 - 2023-09-15,,Currently in Staging Area,,,705,9/15/2023,Old Census Update
 - 2023-09-15,,Currently in Shelter,,,2341,9/15/2023,Old Census Update
 - 2023-09-15,,Exited Shelter,,5119,,9/15/2023,Old Census Update
