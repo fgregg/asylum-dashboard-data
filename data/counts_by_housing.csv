@@ -1,29 +1,326 @@
-ID,Housing Location,Housing Type,Designation,Ward,Current # of People,Data Received Date
-Police Districts (All) - Staging Area,Police Districts (All),Staging Area,,,2526,10/6/2023
-American Islamic College - Shelter,American Islamic College,Shelter,Families,46,1198,10/6/2023
-Social Club - Shelter,Social Club,Shelter,Singles,4,1191,10/6/2023
-Inn of Chicago - Shelter,Inn of Chicago,Shelter,Families,42,1156,10/6/2023
-O'Hare Airport - Staging Area,O'Hare Airport,Staging Area,,,828,10/6/2023
-Walnut - Shelter,Walnut,Shelter,Families,27,804,10/6/2023
-Ogden - Shelter,Ogden,Shelter,Families,27,647,10/6/2023
-Lakeshore Hotel - Shelter,Lakeshore Hotel,Shelter,Singles,5,625,10/6/2023
-Wadsworth - Shelter,Wadsworth,Shelter,Singles,20,611,10/6/2023
-MWRD - Shelter,MWRD,Shelter,Families,39,550,10/6/2023
-Halsted - Shelter,Halsted,Shelter,Families,25,397,10/6/2023
-Gage Park - Shelter,Gage Park,Shelter,Singles,15,388,10/6/2023
-Broadway Armory - Shelter,Broadway Armory,Shelter,Families,48,347,10/6/2023
-Super 8 Motel - Shelter,Super 8 Motel,Shelter,Families,49,284,10/6/2023
-YWLA - Shelter,YWLA,Shelter,Singles,4,249,10/6/2023
-Daley College - Shelter,Daley College,Shelter,Families,18,246,10/6/2023
-Piotrowski Park - Shelter,Piotrowski Park,Shelter,Families,22,198,10/6/2023
-Parthenon - Shelter,Parthenon,Shelter,Singles,34,186,10/6/2023
-North Park Village - Shelter,North Park Village,Shelter,Families,39,170,10/6/2023
-High Ridge YMCA - Shelter,High Ridge YMCA,Shelter,Singles,50,159,10/6/2023
-Near South Health Center - Shelter,Near South Health Center,Shelter,Singles,3,155,10/6/2023
-Brands Park - Shelter,Brands Park,Shelter,Families,33,150,10/6/2023
-Leone Beach - Shelter,Leone Beach,Shelter,Families,49,99,10/6/2023
-New Life Church - Shelter,New Life Church,Shelter,Families,32,50,10/6/2023
-Midway Airport - Staging Area,Midway Airport,Staging Area,,,28,10/6/2023
-Wright College - Shelter,Wright College,Shelter,Families,38,,
-Harold Washington Library - Shelter,Harold Washington Library,Shelter,Families,4,,
-Shield of Hope - Shelter,Shield of Hope,Shelter,Families,27,,
+ID,Housing Locations,of People,Data Received Date,Status
+Police Districts (All) - Staging Area- 2023-10-07,Police Districts (All) - Staging Area,2526,10/6/2023 11:00pm,Latest Census Update
+American Islamic College - Shelter- 2023-10-07,American Islamic College - Shelter,1198,10/6/2023 11:00pm,Latest Census Update
+Social Club - Shelter- 2023-10-07,Social Club - Shelter,1191,10/6/2023 11:00pm,Latest Census Update
+Inn of Chicago - Shelter- 2023-10-07,Inn of Chicago - Shelter,1156,10/6/2023 11:00pm,Latest Census Update
+O'Hare Airport - Staging Area- 2023-10-07,O'Hare Airport - Staging Area,828,10/6/2023 11:00pm,Latest Census Update
+Walnut - Shelter- 2023-10-07,Walnut - Shelter,804,10/6/2023 11:00pm,Latest Census Update
+Ogden - Shelter- 2023-10-07,Ogden - Shelter,647,10/6/2023 11:00pm,Latest Census Update
+Lakeshore Hotel - Shelter- 2023-10-07,Lakeshore Hotel - Shelter,625,10/6/2023 11:00pm,Latest Census Update
+Wadsworth - Shelter- 2023-10-07,Wadsworth - Shelter,611,10/6/2023 11:00pm,Latest Census Update
+MWRD - Shelter- 2023-10-07,MWRD - Shelter,550,10/6/2023 11:00pm,Latest Census Update
+Gage Park - Shelter- 2023-10-07,Gage Park - Shelter,388,10/6/2023 11:00pm,Latest Census Update
+Broadway Armory - Shelter- 2023-10-07,Broadway Armory - Shelter,347,10/6/2023 11:00pm,Latest Census Update
+Super 8 Motel - Shelter- 2023-10-07,Super 8 Motel - Shelter,284,10/6/2023 11:00pm,Latest Census Update
+YWLA - Shelter- 2023-10-07,YWLA - Shelter,249,10/6/2023 11:00pm,Latest Census Update
+Daley College - Shelter- 2023-10-07,Daley College - Shelter,246,10/6/2023 11:00pm,Latest Census Update
+Piotrowski Park - Shelter- 2023-10-07,Piotrowski Park - Shelter,198,10/6/2023 11:00pm,Latest Census Update
+Parthenon - Shelter- 2023-10-07,Parthenon - Shelter,186,10/6/2023 11:00pm,Latest Census Update
+North Park Village - Shelter- 2023-10-07,North Park Village - Shelter,170,10/6/2023 11:00pm,Latest Census Update
+High Ridge YMCA - Shelter- 2023-10-07,High Ridge YMCA - Shelter,159,10/6/2023 11:00pm,Latest Census Update
+Near South Health Center - Shelter- 2023-10-07,Near South Health Center - Shelter,155,10/6/2023 11:00pm,Latest Census Update
+Brands Park - Shelter- 2023-10-07,Brands Park - Shelter,150,10/6/2023 11:00pm,Latest Census Update
+Leone Beach - Shelter- 2023-10-07,Leone Beach - Shelter,99,10/6/2023 11:00pm,Latest Census Update
+New Life Church - Shelter- 2023-10-07,New Life Church - Shelter,50,10/6/2023 11:00pm,Latest Census Update
+Midway Airport - Staging Area- 2023-10-07,Midway Airport - Staging Area,28,10/6/2023 11:00pm,Latest Census Update
+Halsted - Shelter- 2023-10-06,Halsted - Shelter,397,10/6/2023 12:00am,Latest Census Update
+Police Districts (All) - Staging Area- 2023-09-30,Police Districts (All) - Staging Area,1741,9/29/2023 11:00pm,Old Census Update
+Inn of Chicago - Shelter- 2023-09-30,Inn of Chicago - Shelter,1529,9/29/2023 11:00pm,Old Census Update
+Social Club - Shelter- 2023-09-30,Social Club - Shelter,1172,9/29/2023 11:00pm,Old Census Update
+American Islamic College - Shelter- 2023-09-30,American Islamic College - Shelter,1000,9/29/2023 11:00pm,Old Census Update
+Wadsworth - Shelter- 2023-09-30,Wadsworth - Shelter,626,9/29/2023 11:00pm,Old Census Update
+Lakeshore Hotel - Shelter- 2023-09-30,Lakeshore Hotel - Shelter,598,9/29/2023 11:00pm,Old Census Update
+O'Hare Airport - Staging Area- 2023-09-30,O'Hare Airport - Staging Area,483,9/29/2023 11:00pm,Old Census Update
+Gage Park - Shelter- 2023-09-30,Gage Park - Shelter,388,9/29/2023 11:00pm,Old Census Update
+Broadway Armory - Shelter- 2023-09-30,Broadway Armory - Shelter,347,9/29/2023 11:00pm,Old Census Update
+Super 8 Motel - Shelter- 2023-09-30,Super 8 Motel - Shelter,281,9/29/2023 11:00pm,Old Census Update
+Daley College - Shelter- 2023-09-30,Daley College - Shelter,255,9/29/2023 11:00pm,Old Census Update
+YWLA - Shelter- 2023-09-30,YWLA - Shelter,250,9/29/2023 11:00pm,Old Census Update
+Piotrowski Park - Shelter- 2023-09-30,Piotrowski Park - Shelter,200,9/29/2023 11:00pm,Old Census Update
+North Park Village - Shelter- 2023-09-30,North Park Village - Shelter,181,9/29/2023 11:00pm,Old Census Update
+High Ridge YMCA - Shelter- 2023-09-30,High Ridge YMCA - Shelter,159,9/29/2023 11:00pm,Old Census Update
+Near South Health Center - Shelter- 2023-09-30,Near South Health Center - Shelter,155,9/29/2023 11:00pm,Old Census Update
+Brands Park - Shelter- 2023-09-30,Brands Park - Shelter,145,9/29/2023 11:00pm,Old Census Update
+Leone Beach - Shelter- 2023-09-30,Leone Beach - Shelter,99,9/29/2023 11:00pm,Old Census Update
+New Life Church - Shelter- 2023-09-30,New Life Church - Shelter,51,9/29/2023 11:00pm,Old Census Update
+Midway Airport - Staging Area- 2023-09-30,Midway Airport - Staging Area,22,9/29/2023 11:00pm,Old Census Update
+Ogden - Shelter- 2023-09-29,Ogden - Shelter,650,9/29/2023 12:00am,Old Census Update
+MWRD - Shelter- 2023-09-29,MWRD - Shelter,547,9/29/2023 12:00am,Old Census Update
+Walnut - Shelter- 2023-09-29,Walnut - Shelter,544,9/29/2023 12:00am,Old Census Update
+Parthenon - Shelter- 2023-09-29,Parthenon - Shelter,184,9/29/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-09-23,Inn of Chicago - Shelter,1530,9/22/2023 11:00pm,Old Census Update
+Police Districts (All) - Staging Area- 2023-09-23,Police Districts (All) - Staging Area,1496,9/22/2023 11:00pm,Old Census Update
+Social Club - Shelter- 2023-09-23,Social Club - Shelter,1191,9/22/2023 11:00pm,Old Census Update
+American Islamic College - Shelter- 2023-09-23,American Islamic College - Shelter,992,9/22/2023 11:00pm,Old Census Update
+Wadsworth - Shelter- 2023-09-23,Wadsworth - Shelter,623,9/22/2023 11:00pm,Old Census Update
+Lakeshore Hotel - Shelter- 2023-09-23,Lakeshore Hotel - Shelter,602,9/22/2023 11:00pm,Old Census Update
+O'Hare Airport - Staging Area- 2023-09-23,O'Hare Airport - Staging Area,502,9/22/2023 11:00pm,Old Census Update
+Broadway Armory - Shelter- 2023-09-23,Broadway Armory - Shelter,350,9/22/2023 11:00pm,Old Census Update
+Gage Park - Shelter- 2023-09-23,Gage Park - Shelter,326,9/22/2023 11:00pm,Old Census Update
+Super 8 Motel - Shelter- 2023-09-23,Super 8 Motel - Shelter,283,9/22/2023 11:00pm,Old Census Update
+Daley College - Shelter- 2023-09-23,Daley College - Shelter,252,9/22/2023 11:00pm,Old Census Update
+YWLA - Shelter- 2023-09-23,YWLA - Shelter,245,9/22/2023 11:00pm,Old Census Update
+Piotrowski Park - Shelter- 2023-09-23,Piotrowski Park - Shelter,195,9/22/2023 11:00pm,Old Census Update
+North Park Village - Shelter- 2023-09-23,North Park Village - Shelter,179,9/22/2023 11:00pm,Old Census Update
+High Ridge YMCA - Shelter- 2023-09-23,High Ridge YMCA - Shelter,160,9/22/2023 11:00pm,Old Census Update
+Near South Health Center - Shelter- 2023-09-23,Near South Health Center - Shelter,155,9/22/2023 11:00pm,Old Census Update
+Brands Park - Shelter- 2023-09-23,Brands Park - Shelter,151,9/22/2023 11:00pm,Old Census Update
+Leone Beach - Shelter- 2023-09-23,Leone Beach - Shelter,101,9/22/2023 11:00pm,Old Census Update
+New Life Church - Shelter- 2023-09-23,New Life Church - Shelter,49,9/22/2023 11:00pm,Old Census Update
+Midway Airport - Staging Area- 2023-09-23,Midway Airport - Staging Area,8,9/22/2023 11:00pm,Old Census Update
+Walnut - Shelter- 2023-09-22,Walnut - Shelter,401,9/22/2023 12:00am,Old Census Update
+MWRD - Shelter- 2023-09-22,MWRD - Shelter,390,9/22/2023 12:00am,Old Census Update
+Parthenon - Shelter- 2023-09-22,Parthenon - Shelter,185,9/22/2023 12:00am,Old Census Update
+Ogden - Shelter- 2023-09-22,Ogden - Shelter,100,9/22/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-09-15,Police Districts (All) - Staging Area,1641,9/15/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-09-15,Inn of Chicago - Shelter,1553,9/15/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-09-15,Social Club - Shelter,1170,9/15/2023 12:00am,Old Census Update
+American Islamic College - Shelter- 2023-09-15,American Islamic College - Shelter,996,9/15/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-09-15,Wadsworth - Shelter,619,9/15/2023 12:00am,Old Census Update
+Lakeshore Hotel - Shelter- 2023-09-15,Lakeshore Hotel - Shelter,603,9/15/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-09-15,O'Hare Airport - Staging Area,466,9/15/2023 12:00am,Old Census Update
+Broadway Armory - Shelter- 2023-09-15,Broadway Armory - Shelter,350,9/15/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-09-15,Gage Park - Shelter,329,9/15/2023 12:00am,Old Census Update
+Super 8 Motel - Shelter- 2023-09-15,Super 8 Motel - Shelter,278,9/15/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-09-15,Daley College - Shelter,253,9/15/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-09-15,YWLA - Shelter,246,9/15/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-09-15,Piotrowski Park - Shelter,200,9/15/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-09-15,North Park Village - Shelter,178,9/15/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-09-15,High Ridge YMCA - Shelter,155,9/15/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-09-15,Near South Health Center - Shelter,152,9/15/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-09-15,Brands Park - Shelter,139,9/15/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-09-15,Leone Beach - Shelter,99,9/15/2023 12:00am,Old Census Update
+New Life Church - Shelter- 2023-09-15,New Life Church - Shelter,50,9/15/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-09-15,Midway Airport - Staging Area,0,9/15/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-09-08,Police Districts (All) - Staging Area,1539,9/8/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-09-08,Inn of Chicago - Shelter,1503,9/8/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-09-08,Social Club - Shelter,1179,9/8/2023 12:00am,Old Census Update
+American Islamic College - Shelter- 2023-09-08,American Islamic College - Shelter,828,9/8/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-09-08,Wadsworth - Shelter,611,9/8/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-09-08,O'Hare Airport - Staging Area,472,9/8/2023 12:00am,Old Census Update
+Lakeshore Hotel - Shelter- 2023-09-08,Lakeshore Hotel - Shelter,377,9/8/2023 12:00am,Old Census Update
+Broadway Armory - Shelter- 2023-09-08,Broadway Armory - Shelter,349,9/8/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-09-08,Gage Park - Shelter,329,9/8/2023 12:00am,Old Census Update
+Super 8 Motel - Shelter- 2023-09-08,Super 8 Motel - Shelter,285,9/8/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-09-08,Daley College - Shelter,252,9/8/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-09-08,YWLA - Shelter,247,9/8/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-09-08,Piotrowski Park - Shelter,197,9/8/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-09-08,North Park Village - Shelter,178,9/8/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-09-08,High Ridge YMCA - Shelter,158,9/8/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-09-08,Near South Health Center - Shelter,150,9/8/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-09-08,Brands Park - Shelter,146,9/8/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-09-08,Leone Beach - Shelter,91,9/8/2023 12:00am,Old Census Update
+Harold Washington Library - Shelter- 2023-09-08,Harold Washington Library - Shelter,61,9/8/2023 12:00am,Old Census Update
+New Life Church - Shelter- 2023-09-08,New Life Church - Shelter,50,9/8/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-09-08,Midway Airport - Staging Area,21,9/8/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-09-01,Police Districts (All) - Staging Area,1576,9/1/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-09-01,Inn of Chicago - Shelter,1543,9/1/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-09-01,Social Club - Shelter,1176,9/1/2023 12:00am,Old Census Update
+American Islamic College - Shelter- 2023-09-01,American Islamic College - Shelter,814,9/1/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-09-01,Wadsworth - Shelter,623,9/1/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-09-01,O'Hare Airport - Staging Area,418,9/1/2023 12:00am,Old Census Update
+Broadway Armory - Shelter- 2023-09-01,Broadway Armory - Shelter,350,9/1/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-09-01,Gage Park - Shelter,322,9/1/2023 12:00am,Old Census Update
+Super 8 Motel - Shelter- 2023-09-01,Super 8 Motel - Shelter,285,9/1/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-09-01,Daley College - Shelter,256,9/1/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-09-01,YWLA - Shelter,250,9/1/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-09-01,Piotrowski Park - Shelter,200,9/1/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-09-01,North Park Village - Shelter,176,9/1/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-09-01,High Ridge YMCA - Shelter,158,9/1/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-09-01,Near South Health Center - Shelter,153,9/1/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-09-01,Brands Park - Shelter,145,9/1/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-09-01,Leone Beach - Shelter,101,9/1/2023 12:00am,Old Census Update
+Harold Washington Library - Shelter- 2023-09-01,Harold Washington Library - Shelter,60,9/1/2023 12:00am,Old Census Update
+New Life Church - Shelter- 2023-09-01,New Life Church - Shelter,50,9/1/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-09-01,Midway Airport - Staging Area,0,9/1/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-08-25,Inn of Chicago - Shelter,1550,8/25/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-08-25,Police Districts (All) - Staging Area,1347,8/25/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-08-25,Social Club - Shelter,1187,8/25/2023 12:00am,Old Census Update
+American Islamic College - Shelter- 2023-08-25,American Islamic College - Shelter,798,8/25/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-08-25,Wadsworth - Shelter,607,8/25/2023 12:00am,Old Census Update
+Broadway Armory - Shelter- 2023-08-25,Broadway Armory - Shelter,347,8/25/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-08-25,Gage Park - Shelter,313,8/25/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-08-25,O'Hare Airport - Staging Area,292,8/25/2023 12:00am,Old Census Update
+Super 8 Motel - Shelter- 2023-08-25,Super 8 Motel - Shelter,282,8/25/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-08-25,Daley College - Shelter,256,8/25/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-08-25,YWLA - Shelter,248,8/25/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-08-25,Piotrowski Park - Shelter,200,8/25/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-08-25,North Park Village - Shelter,174,8/25/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-08-25,High Ridge YMCA - Shelter,160,8/25/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-08-25,Near South Health Center - Shelter,154,8/25/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-08-25,Brands Park - Shelter,150,8/25/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-08-25,Leone Beach - Shelter,101,8/25/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-08-25,Midway Airport - Staging Area,0,8/25/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-08-18,Inn of Chicago - Shelter,1469,8/18/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-08-18,Social Club - Shelter,1190,8/18/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-08-18,Police Districts (All) - Staging Area,1100,8/18/2023 12:00am,Old Census Update
+American Islamic College - Shelter- 2023-08-18,American Islamic College - Shelter,783,8/18/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-08-18,Wadsworth - Shelter,593,8/18/2023 12:00am,Old Census Update
+Broadway Armory - Shelter- 2023-08-18,Broadway Armory - Shelter,343,8/18/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-08-18,Gage Park - Shelter,302,8/18/2023 12:00am,Old Census Update
+Super 8 Motel - Shelter- 2023-08-18,Super 8 Motel - Shelter,279,8/18/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-08-18,Daley College - Shelter,255,8/18/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-08-18,YWLA - Shelter,210,8/18/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-08-18,Piotrowski Park - Shelter,195,8/18/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-08-18,North Park Village - Shelter,179,8/18/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-08-18,O'Hare Airport - Staging Area,170,8/18/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-08-18,High Ridge YMCA - Shelter,156,8/18/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-08-18,Near South Health Center - Shelter,155,8/18/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-08-18,Brands Park - Shelter,150,8/18/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-08-18,Leone Beach - Shelter,101,8/18/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-08-18,Midway Airport - Staging Area,8,8/18/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-08-11,Inn of Chicago - Shelter,1503,8/11/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-08-11,Social Club - Shelter,1182,8/11/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-08-11,Police Districts (All) - Staging Area,932,8/11/2023 12:00am,Old Census Update
+American Islamic College - Shelter- 2023-08-11,American Islamic College - Shelter,610,8/11/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-08-11,Wadsworth - Shelter,595,8/11/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-08-11,Gage Park - Shelter,294,8/11/2023 12:00am,Old Census Update
+Super 8 Motel - Shelter- 2023-08-11,Super 8 Motel - Shelter,276,8/11/2023 12:00am,Old Census Update
+Broadway Armory - Shelter- 2023-08-11,Broadway Armory - Shelter,269,8/11/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-08-11,Daley College - Shelter,254,8/11/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-08-11,YWLA - Shelter,240,8/11/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-08-11,Piotrowski Park - Shelter,198,8/11/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-08-11,North Park Village - Shelter,174,8/11/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-08-11,High Ridge YMCA - Shelter,160,8/11/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-08-11,Brands Park - Shelter,152,8/11/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-08-11,Near South Health Center - Shelter,125,8/11/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-08-11,O'Hare Airport - Staging Area,100,8/11/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-08-11,Leone Beach - Shelter,96,8/11/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-08-11,Midway Airport - Staging Area,0,8/11/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-08-04,Inn of Chicago - Shelter,1509,8/4/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-08-04,Social Club - Shelter,1185,8/4/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-08-04,Police Districts (All) - Staging Area,695,8/4/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-08-04,Wadsworth - Shelter,586,8/4/2023 12:00am,Old Census Update
+American Islamic College - Shelter- 2023-08-04,American Islamic College - Shelter,556,8/4/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-08-04,Gage Park - Shelter,282,8/4/2023 12:00am,Old Census Update
+Broadway Armory - Shelter- 2023-08-04,Broadway Armory - Shelter,267,8/4/2023 12:00am,Old Census Update
+Super 8 Motel - Shelter- 2023-08-04,Super 8 Motel - Shelter,258,8/4/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-08-04,Daley College - Shelter,256,8/4/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-08-04,YWLA - Shelter,249,8/4/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-08-04,Piotrowski Park - Shelter,198,8/4/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-08-04,North Park Village - Shelter,178,8/4/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-08-04,High Ridge YMCA - Shelter,153,8/4/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-08-04,Brands Park - Shelter,151,8/4/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-08-04,Near South Health Center - Shelter,126,8/4/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-08-04,Leone Beach - Shelter,100,8/4/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-08-04,O'Hare Airport - Staging Area,31,8/4/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-08-04,Midway Airport - Staging Area,0,8/4/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-07-28,Inn of Chicago - Shelter,1507,7/28/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-07-28,Social Club - Shelter,1179,7/28/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-07-28,Police Districts (All) - Staging Area,795,7/28/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-07-28,Wadsworth - Shelter,581,7/28/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-07-28,Daley College - Shelter,410,7/28/2023 12:00am,Old Census Update
+Wright College - Shelter- 2023-07-28,Wright College - Shelter,392,7/28/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-07-28,Gage Park - Shelter,295,7/28/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-07-28,YWLA - Shelter,248,7/28/2023 12:00am,Old Census Update
+Super 8 Motel - Shelter- 2023-07-28,Super 8 Motel - Shelter,243,7/28/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-07-28,Piotrowski Park - Shelter,198,7/28/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-07-28,North Park Village - Shelter,179,7/28/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-07-28,Brands Park - Shelter,150,7/28/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-07-28,High Ridge YMCA - Shelter,149,7/28/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-07-28,Near South Health Center - Shelter,131,7/28/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-07-28,Leone Beach - Shelter,101,7/28/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-07-28,O'Hare Airport - Staging Area,37,7/28/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-07-28,Midway Airport - Staging Area,0,7/28/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-07-21,Inn of Chicago - Shelter,1468,7/21/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-07-21,Social Club - Shelter,1169,7/21/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-07-21,Police Districts (All) - Staging Area,860,7/21/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-07-21,Wadsworth - Shelter,584,7/21/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-07-21,Daley College - Shelter,415,7/21/2023 12:00am,Old Census Update
+Wright College - Shelter- 2023-07-21,Wright College - Shelter,387,7/21/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-07-21,Gage Park - Shelter,277,7/21/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-07-21,YWLA - Shelter,247,7/21/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-07-21,Piotrowski Park - Shelter,196,7/21/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-07-21,North Park Village - Shelter,176,7/21/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-07-21,Brands Park - Shelter,150,7/21/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-07-21,High Ridge YMCA - Shelter,149,7/21/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-07-21,Leone Beach - Shelter,101,7/21/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-07-21,O'Hare Airport - Staging Area,95,7/21/2023 12:00am,Old Census Update
+Near South Health Center - Shelter- 2023-07-21,Near South Health Center - Shelter,48,7/21/2023 12:00am,Old Census Update
+New Life Church - Shelter- 2023-07-21,New Life Church - Shelter,40,7/21/2023 12:00am,Old Census Update
+Midway Airport - Staging Area- 2023-07-21,Midway Airport - Staging Area,3,7/21/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-07-14,Inn of Chicago - Shelter,1426,7/14/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-07-14,Social Club - Shelter,1182,7/14/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-07-14,Police Districts (All) - Staging Area,772,7/14/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-07-14,Wadsworth - Shelter,570,7/14/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-07-14,Daley College - Shelter,412,7/14/2023 12:00am,Old Census Update
+Wright College - Shelter- 2023-07-14,Wright College - Shelter,388,7/14/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-07-14,Gage Park - Shelter,253,7/14/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-07-14,YWLA - Shelter,248,7/14/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-07-14,Piotrowski Park - Shelter,192,7/14/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-07-14,North Park Village - Shelter,181,7/14/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-07-14,Brands Park - Shelter,145,7/14/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-07-14,High Ridge YMCA - Shelter,145,7/14/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-07-14,Leone Beach - Shelter,86,7/14/2023 12:00am,Old Census Update
+New Life Church - Shelter- 2023-07-14,New Life Church - Shelter,40,7/14/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-07-14,O'Hare Airport - Staging Area,34,7/14/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-07-07,Inn of Chicago - Shelter,1408,7/7/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-07-07,Social Club - Shelter,1167,7/7/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-07-07,Police Districts (All) - Staging Area,760,7/7/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-07-07,Wadsworth - Shelter,568,7/7/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-07-07,Daley College - Shelter,407,7/7/2023 12:00am,Old Census Update
+Wright College - Shelter- 2023-07-07,Wright College - Shelter,398,7/7/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-07-07,YWLA - Shelter,246,7/7/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-07-07,Gage Park - Shelter,246,7/7/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-07-07,Piotrowski Park - Shelter,200,7/7/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-07-07,North Park Village - Shelter,144,7/7/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-07-07,Brands Park - Shelter,130,7/7/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-07-07,High Ridge YMCA - Shelter,124,7/7/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-07-07,Leone Beach - Shelter,103,7/7/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-07-07,O'Hare Airport - Staging Area,32,7/7/2023 12:00am,Old Census Update
+New Life Church - Shelter- 2023-07-07,New Life Church - Shelter,25,7/7/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-06-30,Inn of Chicago - Shelter,1388,6/30/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-06-30,Social Club - Shelter,1147,6/30/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-06-30,Police Districts (All) - Staging Area,687,6/30/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-06-30,Wadsworth - Shelter,591,6/30/2023 12:00am,Old Census Update
+Wright College - Shelter- 2023-06-30,Wright College - Shelter,393,6/30/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-06-30,Daley College - Shelter,392,6/30/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-06-30,YWLA - Shelter,243,6/30/2023 12:00am,Old Census Update
+Gage Park - Shelter- 2023-06-30,Gage Park - Shelter,206,6/30/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-06-30,Piotrowski Park - Shelter,197,6/30/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-06-30,Brands Park - Shelter,160,6/30/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-06-30,High Ridge YMCA - Shelter,149,6/30/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-06-30,North Park Village - Shelter,126,6/30/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-06-30,Leone Beach - Shelter,80,6/30/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-06-30,O'Hare Airport - Staging Area,0,6/30/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-06-23,Inn of Chicago - Shelter,1398,6/23/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-06-23,Social Club - Shelter,1084,6/23/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-06-23,Wadsworth - Shelter,588,6/23/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-06-23,Police Districts (All) - Staging Area,460,6/23/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-06-23,Daley College - Shelter,415,6/23/2023 12:00am,Old Census Update
+Wright College - Shelter- 2023-06-23,Wright College - Shelter,383,6/23/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-06-23,YWLA - Shelter,248,6/23/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-06-23,Piotrowski Park - Shelter,200,6/23/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-06-23,High Ridge YMCA - Shelter,148,6/23/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-06-23,Brands Park - Shelter,144,6/23/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-06-23,North Park Village - Shelter,125,6/23/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-06-23,Leone Beach - Shelter,97,6/23/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-06-23,O'Hare Airport - Staging Area,56,6/23/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-06-16,Inn of Chicago - Shelter,1252,6/16/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-06-16,Social Club - Shelter,1033,6/16/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-06-16,Wadsworth - Shelter,598,6/16/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-06-16,Daley College - Shelter,411,6/16/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-06-16,Police Districts (All) - Staging Area,387,6/16/2023 12:00am,Old Census Update
+Wright College - Shelter- 2023-06-16,Wright College - Shelter,384,6/16/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-06-16,YWLA - Shelter,248,6/16/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-06-16,Piotrowski Park - Shelter,197,6/16/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-06-16,Brands Park - Shelter,155,6/16/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-06-16,High Ridge YMCA - Shelter,126,6/16/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-06-16,North Park Village - Shelter,102,6/16/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-06-16,Leone Beach - Shelter,97,6/16/2023 12:00am,Old Census Update
+Shield of Hope - Shelter- 2023-06-16,Shield of Hope - Shelter,90,6/16/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-06-16,O'Hare Airport - Staging Area,11,6/16/2023 12:00am,Old Census Update
+Inn of Chicago - Shelter- 2023-06-09,Inn of Chicago - Shelter,1432,6/9/2023 12:00am,Old Census Update
+Social Club - Shelter- 2023-06-09,Social Club - Shelter,1026,6/9/2023 12:00am,Old Census Update
+Wadsworth - Shelter- 2023-06-09,Wadsworth - Shelter,596,6/9/2023 12:00am,Old Census Update
+Police Districts (All) - Staging Area- 2023-06-09,Police Districts (All) - Staging Area,459,6/9/2023 12:00am,Old Census Update
+Wright College - Shelter- 2023-06-09,Wright College - Shelter,368,6/9/2023 12:00am,Old Census Update
+YWLA - Shelter- 2023-06-09,YWLA - Shelter,247,6/9/2023 12:00am,Old Census Update
+Piotrowski Park - Shelter- 2023-06-09,Piotrowski Park - Shelter,195,6/9/2023 12:00am,Old Census Update
+Daley College - Shelter- 2023-06-09,Daley College - Shelter,172,6/9/2023 12:00am,Old Census Update
+Brands Park - Shelter- 2023-06-09,Brands Park - Shelter,169,6/9/2023 12:00am,Old Census Update
+High Ridge YMCA - Shelter- 2023-06-09,High Ridge YMCA - Shelter,158,6/9/2023 12:00am,Old Census Update
+Leone Beach - Shelter- 2023-06-09,Leone Beach - Shelter,100,6/9/2023 12:00am,Old Census Update
+North Park Village - Shelter- 2023-06-09,North Park Village - Shelter,92,6/9/2023 12:00am,Old Census Update
+Shield of Hope - Shelter- 2023-06-09,Shield of Hope - Shelter,92,6/9/2023 12:00am,Old Census Update
+O'Hare Airport - Staging Area- 2023-06-09,O'Hare Airport - Staging Area,11,6/9/2023 12:00am,Old Census Update
