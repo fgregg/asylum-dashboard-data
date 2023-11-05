@@ -1,31 +1,31 @@
 ID,Housing Location,Housing Type,Designation,Ward,Current # of People,Data Received Date
-Police Districts (All) - Staging Area,Police Districts (All),Staging Area,,,2808,10/27/2023
-Inn of Chicago - Shelter,Inn of Chicago,Shelter,Families,42,1499,10/27/2023
-American Islamic College - Shelter,American Islamic College,Shelter,Families,46,1283,10/27/2023
-Halsted - Shelter,Halsted,Shelter,Families,25,1272,10/27/2023
-Social Club - Shelter,Social Club,Shelter,Singles,4,1192,10/27/2023
-Ogden - Shelter,Ogden,Shelter,Families,27,895,10/27/2023
-Walnut - Shelter,Walnut,Shelter,Families,27,786,10/27/2023
-Lakeshore Hotel - Shelter,Lakeshore Hotel,Shelter,Singles,5,628,10/27/2023
-Wadsworth - Shelter,Wadsworth,Shelter,Singles,20,621,10/27/2023
-MWRD - Shelter,MWRD,Shelter,Families,39,550,10/27/2023
-O'Hare Airport - Staging Area,O'Hare Airport,Staging Area,,,536,10/27/2023
-Gage Park - Shelter,Gage Park,Shelter,Singles,15,385,10/27/2023
-Broadway Armory - Shelter,Broadway Armory,Shelter,Families,48,345,10/27/2023
-West Lake - Shelter,West Lake,Shelter,Singles,27,315,10/27/2023
-Super 8 Motel - Shelter,Super 8 Motel,Shelter,Families,49,280,10/27/2023
-Daley College - Shelter,Daley College,Shelter,Families,18,249,10/27/2023
-YWLA - Shelter,YWLA,Shelter,Singles,4,248,10/27/2023
-Piotrowski Park - Shelter,Piotrowski Park,Shelter,Families,22,200,10/27/2023
-Parthenon - Shelter,Parthenon,Shelter,Singles,34,186,10/27/2023
-North Park Village - Shelter,North Park Village,Shelter,Families,39,176,10/27/2023
-High Ridge YMCA - Shelter,High Ridge YMCA,Shelter,Singles,50,157,10/27/2023
-Brands Park - Shelter,Brands Park,Shelter,Families,33,150,10/27/2023
-Near South Health Center - Shelter,Near South Health Center,Shelter,Singles,3,146,10/27/2023
-Leone Beach - Shelter,Leone Beach,Shelter,Families,49,99,10/27/2023
-New Life Church - Shelter,New Life Church,Shelter,Families,32,50,10/27/2023
-Casa Esperanza - Shelter,Casa Esperanza,Shelter,Families,24,37,10/27/2023
-Midway Airport - Staging Area,Midway Airport,Staging Area,,,0,10/27/2023
+O'Hare Airport - Staging Area,O'Hare Airport,Staging Area,,,,
+Midway Airport - Staging Area,Midway Airport,Staging Area,,,,
+Police Districts (All) - Staging Area,Police Districts (All),Staging Area,,,,
+Social Club - Shelter,Social Club,Shelter,Singles,4,,
+YWLA - Shelter,YWLA,Shelter,Singles,4,,
+Gage Park - Shelter,Gage Park,Shelter,Singles,15,,
+Daley College - Shelter,Daley College,Shelter,Families,18,,
+Wadsworth - Shelter,Wadsworth,Shelter,Singles,20,,
+Piotrowski Park - Shelter,Piotrowski Park,Shelter,Families,22,,
+Brands Park - Shelter,Brands Park,Shelter,Families,33,,
+North Park Village - Shelter,North Park Village,Shelter,Families,39,,
+Inn of Chicago - Shelter,Inn of Chicago,Shelter,Families,42,,
+Leone Beach - Shelter,Leone Beach,Shelter,Families,49,,
+High Ridge YMCA - Shelter,High Ridge YMCA,Shelter,Singles,50,,
+Super 8 Motel - Shelter,Super 8 Motel,Shelter,Families,49,,
+Near South Health Center - Shelter,Near South Health Center,Shelter,Singles,3,,
+American Islamic College - Shelter,American Islamic College,Shelter,Families,46,,
+Broadway Armory - Shelter,Broadway Armory,Shelter,Families,48,,
 Wright College - Shelter,Wright College,Shelter,Families,38,,
+New Life Church - Shelter,New Life Church,Shelter,Families,32,,
 Harold Washington Library - Shelter,Harold Washington Library,Shelter,Families,4,,
 Shield of Hope - Shelter,Shield of Hope,Shelter,Families,27,,
+Lakeshore Hotel - Shelter,Lakeshore Hotel,Shelter,Singles,5,,
+Parthenon - Shelter,Parthenon,Shelter,Singles,34,,
+Walnut - Shelter,Walnut,Shelter,Families,27,,
+Ogden - Shelter,Ogden,Shelter,Families,27,,
+MWRD - Shelter,MWRD,Shelter,Families,39,,
+Halsted - Shelter,Halsted,Shelter,Families,25,,
+West Lake - Shelter,West Lake,Shelter,Singles,27,,
+Casa Esperanza - Shelter,Casa Esperanza,Shelter,Families,24,,
