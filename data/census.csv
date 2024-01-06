@@ -1,34 +1,129 @@
 ID,Country of Origin,Arrival or Housing Status,Family Unit,of People,of Minors,Data Received Date,Status
-- 2023-12-08,,People Arrivals Placed In Shelters by 311 (To Date),,6801,,12/8/2023,Latest Census Update
-- 2023-12-08,,Exited Shelter (To Date),,10302,,12/8/2023,Latest Census Update
-- 2023-12-08,,Arrived via TX-contracted buses (In Past Week),,1634,,12/8/2023,Latest Census Update
-- 2023-12-08,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,386,,12/8/2023,Latest Census Update
-- 2023-12-08,,People Arrivals (To Date),,24012,,12/8/2023,Latest Census Update
-- 2023-12-08,,In Shelter (Current),Individuals in Family Unit,955,,12/8/2023,Latest Census Update
-- 2023-12-08,,In Shelter (Current),Single Women,140,,12/8/2023,Latest Census Update
-- 2023-12-08,,In Shelter (Current),Single Men,424,,12/8/2023,Latest Census Update
-- 2023-12-08,,Placed in Shelter (In Past Week),,1634,,12/8/2023,Latest Census Update
-Venezuela- 2023-12-08,Venezuela,Requesting Shelter (In Past Week),,80,,12/8/2023,Latest Census Update
-Venezuela- 2023-12-08,Venezuela,,,10367,,12/8/2023,Latest Census Update
-Colombia- 2023-12-08,Colombia,,,549,,12/8/2023,Latest Census Update
-Colombia- 2023-12-08,Colombia,Requesting Shelter (In Past Week),,13,,12/8/2023,Latest Census Update
-Ecuador- 2023-12-08,Ecuador,,,200,,12/8/2023,Latest Census Update
-Nicaragua- 2023-12-08,Nicaragua,,,33,,12/8/2023,Latest Census Update
-Peru- 2023-12-08,Peru,,,98,,12/8/2023,Latest Census Update
-Peru- 2023-12-08,Peru,Requesting Shelter (In Past Week),,5,,12/8/2023,Latest Census Update
-Haiti- 2023-12-08,Haiti,,,180,,12/8/2023,Latest Census Update
-Haiti- 2023-12-08,Haiti,Requesting Shelter (In Past Week),,0,,12/8/2023,Latest Census Update
-Honduras- 2023-12-08,Honduras,,,53,,12/8/2023,Latest Census Update
-Honduras- 2023-12-08,Honduras,Requesting Shelter (In Past Week),,2,,12/8/2023,Latest Census Update
-Mauritania- 2023-12-08,Mauritania,,,20,,12/8/2023,Latest Census Update
-Mexico- 2023-12-08,Mexico,Requesting Shelter (In Past Week),,0,,12/8/2023,Latest Census Update
-Mexico- 2023-12-08,Mexico,,,14,,12/8/2023,Latest Census Update
-Angola- 2023-12-08,Angola,,,39,,12/8/2023,Latest Census Update
-Guatemala- 2023-12-08,Guatemala,,,16,,12/8/2023,Latest Census Update
-Brazil- 2023-12-08,Brazil,,,10,,12/8/2023,Latest Census Update
-Poland- 2023-12-08,Poland,Requesting Shelter (In Past Week),,1,,12/8/2023,Latest Census Update
-Unknown- 2023-12-08,Unknown,,,2819,,12/8/2023,Latest Census Update
-Unknown- 2023-12-08,Unknown,Requesting Shelter (In Past Week),,1,,12/8/2023,Latest Census Update
+- 2023-12-29,,In Shelter (Current),Individuals in Family Unit,846,,12/29/2023,Latest Census Update
+- 2023-12-29,,Exited Shelter (To Date),,12799,,12/29/2023,Latest Census Update
+- 2023-12-29,,Arrived via TX-contracted buses (In Past Week),,182,,12/29/2023,Latest Census Update
+- 2023-12-29,,Placed in Shelter (In Past Week),,182,,12/29/2023,Latest Census Update
+- 2023-12-29,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,4,,12/29/2023,Latest Census Update
+- 2023-12-29,,People Arrivals Placed In Shelters by 311 (To Date),,7105,,12/29/2023,Latest Census Update
+- 2023-12-29,,In Shelter (Current),Single Men,482,,12/29/2023,Latest Census Update
+- 2023-12-29,,In Shelter (Current),Single Women,128,,12/29/2023,Latest Census Update
+- 2023-12-29,,People Arrivals (To Date),,28261,,12/29/2023,Latest Census Update
+Venezuela- 2023-12-29,Venezuela,,,10678,,12/29/2023,Latest Census Update
+Venezuela- 2023-12-29,Venezuela,Requesting Shelter (In Past Week),,53,,12/29/2023,Latest Census Update
+Colombia- 2023-12-29,Colombia,,,618,,12/29/2023,Latest Census Update
+Colombia- 2023-12-29,Colombia,Requesting Shelter (In Past Week),,2,,12/29/2023,Latest Census Update
+Ecuador- 2023-12-29,Ecuador,,,207,,12/29/2023,Latest Census Update
+Nicaragua- 2023-12-29,Nicaragua,,,33,,12/29/2023,Latest Census Update
+Peru- 2023-12-29,Peru,,,114,,12/29/2023,Latest Census Update
+Peru- 2023-12-29,Peru,Requesting Shelter (In Past Week),,0,,12/29/2023,Latest Census Update
+Haiti- 2023-12-29,Haiti,Requesting Shelter (In Past Week),,0,,12/29/2023,Latest Census Update
+Haiti- 2023-12-29,Haiti,,,159,,12/29/2023,Latest Census Update
+Honduras- 2023-12-29,Honduras,Requesting Shelter (In Past Week),,2,,12/29/2023,Latest Census Update
+Honduras- 2023-12-29,Honduras,,,53,,12/29/2023,Latest Census Update
+Mauritania- 2023-12-29,Mauritania,,,24,,12/29/2023,Latest Census Update
+Mexico- 2023-12-29,Mexico,,,12,,12/29/2023,Latest Census Update
+Mexico- 2023-12-29,Mexico,Requesting Shelter (In Past Week),,1,,12/29/2023,Latest Census Update
+Angola- 2023-12-29,Angola,,,30,,12/29/2023,Latest Census Update
+Guatemala- 2023-12-29,Guatemala,,,19,,12/29/2023,Latest Census Update
+Brazil- 2023-12-29,Brazil,,,12,,12/29/2023,Latest Census Update
+Cuba- 2023-12-29,Cuba,,,13,,12/29/2023,Latest Census Update
+Other- 2023-12-29,Other,,,10,,12/29/2023,Latest Census Update
+Poland- 2023-12-29,Poland,Requesting Shelter (In Past Week),,0,,12/29/2023,Latest Census Update
+Unknown- 2023-12-29,Unknown,Requesting Shelter (In Past Week),,0,,12/29/2023,Latest Census Update
+Unknown- 2023-12-29,Unknown,,,3603,,12/29/2023,Latest Census Update
+- 2023-12-22,,In Shelter (Current),Single Men,176,,12/22/2023,Old Census Update
+- 2023-12-22,,In Shelter (Current),Single Women,35,,12/22/2023,Old Census Update
+- 2023-12-22,,Placed in Shelter (In Past Week),,667,,12/22/2023,Old Census Update
+- 2023-12-22,,People Arrivals Placed In Shelters by 311 (To Date),,6986,,12/22/2023,Old Census Update
+- 2023-12-22,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,106,,12/22/2023,Old Census Update
+- 2023-12-22,,In Shelter (Current),Individuals in Family Unit,250,,12/22/2023,Old Census Update
+- 2023-12-22,,Arrived via TX-contracted buses (In Past Week),,667,,12/22/2023,Old Census Update
+- 2023-12-22,,Exited Shelter (To Date),,11893,,12/22/2023,Old Census Update
+- 2023-12-22,,People Arrivals (To Date),,26492,,12/22/2023,Old Census Update
+Venezuela- 2023-12-22,Venezuela,,,10570,,12/22/2023,Old Census Update
+Venezuela- 2023-12-22,Venezuela,Requesting Shelter (In Past Week),,76,,12/22/2023,Old Census Update
+Colombia- 2023-12-22,Colombia,,,581,,12/22/2023,Old Census Update
+Colombia- 2023-12-22,Colombia,Requesting Shelter (In Past Week),,0,,12/22/2023,Old Census Update
+Ecuador- 2023-12-22,Ecuador,,,203,,12/22/2023,Old Census Update
+Nicaragua- 2023-12-22,Nicaragua,,,36,,12/22/2023,Old Census Update
+Peru- 2023-12-22,Peru,,,111,,12/22/2023,Old Census Update
+Peru- 2023-12-22,Peru,Requesting Shelter (In Past Week),,1,,12/22/2023,Old Census Update
+Haiti- 2023-12-22,Haiti,,,168,,12/22/2023,Old Census Update
+Haiti- 2023-12-22,Haiti,Requesting Shelter (In Past Week),,0,,12/22/2023,Old Census Update
+Honduras- 2023-12-22,Honduras,Requesting Shelter (In Past Week),,0,,12/22/2023,Old Census Update
+Honduras- 2023-12-22,Honduras,,,49,,12/22/2023,Old Census Update
+Mauritania- 2023-12-22,Mauritania,,,24,,12/22/2023,Old Census Update
+Mexico- 2023-12-22,Mexico,,,12,,12/22/2023,Old Census Update
+Mexico- 2023-12-22,Mexico,Requesting Shelter (In Past Week),,3,,12/22/2023,Old Census Update
+Angola- 2023-12-22,Angola,,,32,,12/22/2023,Old Census Update
+Guatemala- 2023-12-22,Guatemala,,,16,,12/22/2023,Old Census Update
+Brazil- 2023-12-22,Brazil,,,12,,12/22/2023,Old Census Update
+Cuba- 2023-12-22,Cuba,,,10,,12/22/2023,Old Census Update
+Other- 2023-12-22,Other,,,10,,12/22/2023,Old Census Update
+Poland- 2023-12-22,Poland,Requesting Shelter (In Past Week),,0,,12/22/2023,Old Census Update
+Unknown- 2023-12-22,Unknown,Requesting Shelter (In Past Week),,0,,12/22/2023,Old Census Update
+Unknown- 2023-12-22,Unknown,,,3360,,12/22/2023,Old Census Update
+- 2023-12-15,,In Shelter (Current),Individuals in Family Unit,642,,12/15/2023,Old Census Update
+- 2023-12-15,,In Shelter (Current),Single Men,370,,12/15/2023,Old Census Update
+- 2023-12-15,,Exited Shelter (To Date),,11069,,12/15/2023,Old Census Update
+- 2023-12-15,,People Arrivals Placed In Shelters by 311 (To Date),,6801,,12/15/2023,Old Census Update
+- 2023-12-15,,Placed in Shelter (In Past Week),,1115,,12/15/2023,Old Census Update
+- 2023-12-15,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,309,,12/15/2023,Old Census Update
+- 2023-12-15,,People Arrivals (To Date),,25800,,12/15/2023,Old Census Update
+- 2023-12-15,,Arrived via TX-contracted buses (In Past Week),,1115,,12/15/2023,Old Census Update
+- 2023-12-15,,In Shelter (Current),Single Women,99,,12/15/2023,Old Census Update
+Venezuela- 2023-12-15,Venezuela,Requesting Shelter (In Past Week),,104,,12/15/2023,Old Census Update
+Venezuela- 2023-12-15,Venezuela,,,10549,,12/15/2023,Old Census Update
+Colombia- 2023-12-15,Colombia,Requesting Shelter (In Past Week),,9,,12/15/2023,Old Census Update
+Colombia- 2023-12-15,Colombia,,,559,,12/15/2023,Old Census Update
+Ecuador- 2023-12-15,Ecuador,,,200,,12/15/2023,Old Census Update
+Nicaragua- 2023-12-15,Nicaragua,,,34,,12/15/2023,Old Census Update
+Peru- 2023-12-15,Peru,,,104,,12/15/2023,Old Census Update
+Peru- 2023-12-15,Peru,Requesting Shelter (In Past Week),,2,,12/15/2023,Old Census Update
+Haiti- 2023-12-15,Haiti,Requesting Shelter (In Past Week),,0,,12/15/2023,Old Census Update
+Haiti- 2023-12-15,Haiti,,,176,,12/15/2023,Old Census Update
+Honduras- 2023-12-15,Honduras,Requesting Shelter (In Past Week),,0,,12/15/2023,Old Census Update
+Honduras- 2023-12-15,Honduras,,,46,,12/15/2023,Old Census Update
+Mauritania- 2023-12-15,Mauritania,,,21,,12/15/2023,Old Census Update
+Mexico- 2023-12-15,Mexico,Requesting Shelter (In Past Week),,0,,12/15/2023,Old Census Update
+Mexico- 2023-12-15,Mexico,,,15,,12/15/2023,Old Census Update
+Angola- 2023-12-15,Angola,,,37,,12/15/2023,Old Census Update
+Guatemala- 2023-12-15,Guatemala,,,16,,12/15/2023,Old Census Update
+Brazil- 2023-12-15,Brazil,,,11,,12/15/2023,Old Census Update
+Other- 2023-12-15,Other,,,10,,12/15/2023,Old Census Update
+Poland- 2023-12-15,Poland,Requesting Shelter (In Past Week),,0,,12/15/2023,Old Census Update
+Unknown- 2023-12-15,Unknown,,,3052,,12/15/2023,Old Census Update
+Unknown- 2023-12-15,Unknown,Requesting Shelter (In Past Week),,1,,12/15/2023,Old Census Update
+- 2023-12-08,,People Arrivals Placed In Shelters by 311 (To Date),,6801,,12/8/2023,Old Census Update
+- 2023-12-08,,Exited Shelter (To Date),,10302,,12/8/2023,Old Census Update
+- 2023-12-08,,Arrived via TX-contracted buses (In Past Week),,1634,,12/8/2023,Old Census Update
+- 2023-12-08,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,386,,12/8/2023,Old Census Update
+- 2023-12-08,,People Arrivals (To Date),,24012,,12/8/2023,Old Census Update
+- 2023-12-08,,In Shelter (Current),Individuals in Family Unit,955,,12/8/2023,Old Census Update
+- 2023-12-08,,In Shelter (Current),Single Women,140,,12/8/2023,Old Census Update
+- 2023-12-08,,In Shelter (Current),Single Men,424,,12/8/2023,Old Census Update
+- 2023-12-08,,Placed in Shelter (In Past Week),,1634,,12/8/2023,Old Census Update
+Venezuela- 2023-12-08,Venezuela,Requesting Shelter (In Past Week),,80,,12/8/2023,Old Census Update
+Venezuela- 2023-12-08,Venezuela,,,10367,,12/8/2023,Old Census Update
+Colombia- 2023-12-08,Colombia,,,549,,12/8/2023,Old Census Update
+Colombia- 2023-12-08,Colombia,Requesting Shelter (In Past Week),,13,,12/8/2023,Old Census Update
+Ecuador- 2023-12-08,Ecuador,,,200,,12/8/2023,Old Census Update
+Nicaragua- 2023-12-08,Nicaragua,,,33,,12/8/2023,Old Census Update
+Peru- 2023-12-08,Peru,,,98,,12/8/2023,Old Census Update
+Peru- 2023-12-08,Peru,Requesting Shelter (In Past Week),,5,,12/8/2023,Old Census Update
+Haiti- 2023-12-08,Haiti,,,180,,12/8/2023,Old Census Update
+Haiti- 2023-12-08,Haiti,Requesting Shelter (In Past Week),,0,,12/8/2023,Old Census Update
+Honduras- 2023-12-08,Honduras,,,53,,12/8/2023,Old Census Update
+Honduras- 2023-12-08,Honduras,Requesting Shelter (In Past Week),,2,,12/8/2023,Old Census Update
+Mauritania- 2023-12-08,Mauritania,,,20,,12/8/2023,Old Census Update
+Mexico- 2023-12-08,Mexico,Requesting Shelter (In Past Week),,0,,12/8/2023,Old Census Update
+Mexico- 2023-12-08,Mexico,,,14,,12/8/2023,Old Census Update
+Angola- 2023-12-08,Angola,,,39,,12/8/2023,Old Census Update
+Guatemala- 2023-12-08,Guatemala,,,16,,12/8/2023,Old Census Update
+Brazil- 2023-12-08,Brazil,,,10,,12/8/2023,Old Census Update
+Poland- 2023-12-08,Poland,Requesting Shelter (In Past Week),,1,,12/8/2023,Old Census Update
+Unknown- 2023-12-08,Unknown,,,2819,,12/8/2023,Old Census Update
+Unknown- 2023-12-08,Unknown,Requesting Shelter (In Past Week),,1,,12/8/2023,Old Census Update
 - 2023-12-01,,In Shelter (Current),Single Men,3113,,12/1/2023,Old Census Update
 - 2023-12-01,,People Arrivals (To Date),,23387,,12/1/2023,Old Census Update
 - 2023-12-01,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,270,,12/1/2023,Old Census Update
