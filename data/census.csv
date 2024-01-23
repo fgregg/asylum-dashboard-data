@@ -1,35 +1,66 @@
 ID,Country of Origin,Arrival or Housing Status,Family Unit,of People,of Minors,Data Received Date,Status
-- 2024-01-12,,People Arrivals Placed In Shelters by 311 (To Date),,7155,,1/12/2024,Latest Census Update
-- 2024-01-12,,In Shelter (Current),Individuals in Family Unit,191,,1/12/2024,Latest Census Update
-- 2024-01-12,,Exited Shelter (To Date),,14579,,1/12/2024,Latest Census Update
-- 2024-01-12,,People Arrivals (To Date),,34562,,1/12/2024,Latest Census Update
-- 2024-01-12,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,0,,1/12/2024,Latest Census Update
-- 2024-01-12,,In Shelter (Current),Single Men,126,,1/12/2024,Latest Census Update
-- 2024-01-12,,Placed in Shelter (In Past Week),,355,,1/12/2024,Latest Census Update
-- 2024-01-12,,In Shelter (Current),Single Women,27,,1/12/2024,Latest Census Update
-- 2024-01-12,,Arrived via TX-contracted buses (In Past Week),,0,,1/12/2024,Latest Census Update
-Venezuela- 2024-01-12,Venezuela,Requesting Shelter (In Past Week),,13,,1/12/2024,Latest Census Update
-Venezuela- 2024-01-12,Venezuela,,,11328,,1/12/2024,Latest Census Update
-Colombia- 2024-01-12,Colombia,,,688,,1/12/2024,Latest Census Update
-Colombia- 2024-01-12,Colombia,Requesting Shelter (In Past Week),,13,,1/12/2024,Latest Census Update
-Ecuador- 2024-01-12,Ecuador,,,226,,1/12/2024,Latest Census Update
-Nicaragua- 2024-01-12,Nicaragua,,,31,,1/12/2024,Latest Census Update
-Peru- 2024-01-12,Peru,,,118,,1/12/2024,Latest Census Update
-Haiti- 2024-01-12,Haiti,,,151,,1/12/2024,Latest Census Update
-Honduras- 2024-01-12,Honduras,,,66,,1/12/2024,Latest Census Update
-Mauritania- 2024-01-12,Mauritania,,,24,,1/12/2024,Latest Census Update
-Mexico- 2024-01-12,Mexico,,,23,,1/12/2024,Latest Census Update
-Mexico- 2024-01-12,Mexico,Requesting Shelter (In Past Week),,4,,1/12/2024,Latest Census Update
-Angola- 2024-01-12,Angola,,,39,,1/12/2024,Latest Census Update
-Guatemala- 2024-01-12,Guatemala,Requesting Shelter (In Past Week),,1,,1/12/2024,Latest Census Update
-Guatemala- 2024-01-12,Guatemala,,,25,,1/12/2024,Latest Census Update
-Brazil- 2024-01-12,Brazil,,,15,,1/12/2024,Latest Census Update
-Chile- 2024-01-12,Chile,,,15,,1/12/2024,Latest Census Update
-Cuba- 2024-01-12,Cuba,,,12,,1/12/2024,Latest Census Update
-El Salvador- 2024-01-12,El Salvador,,,10,,1/12/2024,Latest Census Update
-Other- 2024-01-12,Other,Requesting Shelter (In Past Week),,1,,1/12/2024,Latest Census Update
-Unknown- 2024-01-12,Unknown,,,2727,,1/12/2024,Latest Census Update
-Unknown- 2024-01-12,Unknown,Requesting Shelter (In Past Week),,2,,1/12/2024,Latest Census Update
+- 2024-01-19,,In Shelter (Current),Single Women,7,,1/19/2024,Latest Census Update
+- 2024-01-19,,In Shelter (Current),Individuals in Family Unit,100,,1/19/2024,Latest Census Update
+- 2024-01-19,,Exited Shelter (To Date),,15365,,1/19/2024,Latest Census Update
+- 2024-01-19,,People Arrivals Placed In Shelters by 311 (To Date),,7159,,1/19/2024,Latest Census Update
+- 2024-01-19,,Arrived via TX-contracted buses (In Past Week),,15,,1/19/2024,Latest Census Update
+- 2024-01-19,,People Arrivals (To Date),,34621,,1/19/2024,Latest Census Update
+- 2024-01-19,,In Shelter (Current),Single Men,39,,1/19/2024,Latest Census Update
+- 2024-01-19,,Placed in Shelter (In Past Week),,146,,1/19/2024,Latest Census Update
+- 2024-01-19,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,13,,1/19/2024,Latest Census Update
+Venezuela- 2024-01-19,Venezuela,,,11206,,1/19/2024,Latest Census Update
+Venezuela- 2024-01-19,Venezuela,Requesting Shelter (In Past Week),,32,,1/19/2024,Latest Census Update
+Colombia- 2024-01-19,Colombia,,,677,,1/19/2024,Latest Census Update
+Colombia- 2024-01-19,Colombia,Requesting Shelter (In Past Week),,9,,1/19/2024,Latest Census Update
+Ecuador- 2024-01-19,Ecuador,,,222,,1/19/2024,Latest Census Update
+Ecuador- 2024-01-19,Ecuador,Requesting Shelter (In Past Week),,1,,1/19/2024,Latest Census Update
+Nicaragua- 2024-01-19,Nicaragua,,,33,,1/19/2024,Latest Census Update
+Peru- 2024-01-19,Peru,,,120,,1/19/2024,Latest Census Update
+Haiti- 2024-01-19,Haiti,,,147,,1/19/2024,Latest Census Update
+Honduras- 2024-01-19,Honduras,,,63,,1/19/2024,Latest Census Update
+Mauritania- 2024-01-19,Mauritania,,,24,,1/19/2024,Latest Census Update
+Mexico- 2024-01-19,Mexico,,,24,,1/19/2024,Latest Census Update
+Angola- 2024-01-19,Angola,,,29,,1/19/2024,Latest Census Update
+Guatemala- 2024-01-19,Guatemala,,,22,,1/19/2024,Latest Census Update
+Brazil- 2024-01-19,Brazil,,,15,,1/19/2024,Latest Census Update
+Chile- 2024-01-19,Chile,,,15,,1/19/2024,Latest Census Update
+Chile- 2024-01-19,Chile,Requesting Shelter (In Past Week),,2,,1/19/2024,Latest Census Update
+Cuba- 2024-01-19,Cuba,,,11,,1/19/2024,Latest Census Update
+El Salvador- 2024-01-19,El Salvador,,,10,,1/19/2024,Latest Census Update
+Other- 2024-01-19,Other,,,10,,1/19/2024,Latest Census Update
+Unknown- 2024-01-19,Unknown,Requesting Shelter (In Past Week),,3,,1/19/2024,Latest Census Update
+Unknown- 2024-01-19,Unknown,,,2568,,1/19/2024,Latest Census Update
+- 2024-01-12,,People Arrivals Placed In Shelters by 311 (To Date),,7155,,1/12/2024,Old Census Update
+- 2024-01-12,,In Shelter (Current),Individuals in Family Unit,191,,1/12/2024,Old Census Update
+- 2024-01-12,,Exited Shelter (To Date),,14579,,1/12/2024,Old Census Update
+- 2024-01-12,,People Arrivals (To Date),,34562,,1/12/2024,Old Census Update
+- 2024-01-12,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,0,,1/12/2024,Old Census Update
+- 2024-01-12,,In Shelter (Current),Single Men,126,,1/12/2024,Old Census Update
+- 2024-01-12,,Placed in Shelter (In Past Week),,355,,1/12/2024,Old Census Update
+- 2024-01-12,,In Shelter (Current),Single Women,27,,1/12/2024,Old Census Update
+- 2024-01-12,,Arrived via TX-contracted buses (In Past Week),,0,,1/12/2024,Old Census Update
+Venezuela- 2024-01-12,Venezuela,Requesting Shelter (In Past Week),,13,,1/12/2024,Old Census Update
+Venezuela- 2024-01-12,Venezuela,,,11328,,1/12/2024,Old Census Update
+Colombia- 2024-01-12,Colombia,,,688,,1/12/2024,Old Census Update
+Colombia- 2024-01-12,Colombia,Requesting Shelter (In Past Week),,13,,1/12/2024,Old Census Update
+Ecuador- 2024-01-12,Ecuador,,,226,,1/12/2024,Old Census Update
+Nicaragua- 2024-01-12,Nicaragua,,,31,,1/12/2024,Old Census Update
+Peru- 2024-01-12,Peru,,,118,,1/12/2024,Old Census Update
+Haiti- 2024-01-12,Haiti,,,151,,1/12/2024,Old Census Update
+Honduras- 2024-01-12,Honduras,,,66,,1/12/2024,Old Census Update
+Mauritania- 2024-01-12,Mauritania,,,24,,1/12/2024,Old Census Update
+Mexico- 2024-01-12,Mexico,,,23,,1/12/2024,Old Census Update
+Mexico- 2024-01-12,Mexico,Requesting Shelter (In Past Week),,4,,1/12/2024,Old Census Update
+Angola- 2024-01-12,Angola,,,39,,1/12/2024,Old Census Update
+Guatemala- 2024-01-12,Guatemala,Requesting Shelter (In Past Week),,1,,1/12/2024,Old Census Update
+Guatemala- 2024-01-12,Guatemala,,,25,,1/12/2024,Old Census Update
+Brazil- 2024-01-12,Brazil,,,15,,1/12/2024,Old Census Update
+Chile- 2024-01-12,Chile,,,15,,1/12/2024,Old Census Update
+Cuba- 2024-01-12,Cuba,,,12,,1/12/2024,Old Census Update
+El Salvador- 2024-01-12,El Salvador,,,10,,1/12/2024,Old Census Update
+Other- 2024-01-12,Other,Requesting Shelter (In Past Week),,1,,1/12/2024,Old Census Update
+Unknown- 2024-01-12,Unknown,,,2727,,1/12/2024,Old Census Update
+Unknown- 2024-01-12,Unknown,Requesting Shelter (In Past Week),,2,,1/12/2024,Old Census Update
 - 2024-01-05,,In Shelter (Current),Individuals in Family Unit,844,,1/5/2024,Old Census Update
 - 2024-01-05,,People Arrivals (To Date),,29657,,1/5/2024,Old Census Update
 - 2024-01-05,,Arrived via TX-contracted buses with Personal Movement Plans (In Past Week),,0,,1/5/2024,Old Census Update
