@@ -1,11 +1,14 @@
 ID,Arrival or Housing Status,Country of Origin,Family Unit,of People,of Minors,Data Received Date,Status
+- 2024-01-19,"In Staging Area, Current",,Minors,,5,1/19/2024,Latest Census Update
 - 2024-01-19,"Requested Shelter, Past Week",,Single Women,7,,1/19/2024,Latest Census Update
 - 2024-01-19,"Requested Shelter, Past Week",,Individuals in Family Unit,100,,1/19/2024,Latest Census Update
+- 2024-01-19,"In Shelter, Current",,Minors,,5016,1/19/2024,Latest Census Update
 - 2024-01-19,Exited Shelter To Date,,,15365,,1/19/2024,Latest Census Update
 - 2024-01-19,Arrivals Placed In Shelters by 311 To Date,,,7159,,1/19/2024,Latest Census Update
 - 2024-01-19,"Arrived via TX-contracted buses, Past Week",,,15,,1/19/2024,Latest Census Update
 - 2024-01-19,Total Arrivals To Date,,,34621,,1/19/2024,Latest Census Update
 - 2024-01-19,"Requested Shelter, Past Week",,Single Men,39,,1/19/2024,Latest Census Update
+- 2024-01-19,"Bus Arrivals, Past Week",,,,,1/19/2024,Latest Census Update
 - 2024-01-19,"Placed in Shelter, Past Week",,,146,,1/19/2024,Latest Census Update
 - 2024-01-19,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,13,,1/19/2024,Latest Census Update
 Venezuela- 2024-01-19,Arrivals To Date,Venezuela,,11206,,1/19/2024,Latest Census Update
@@ -30,6 +33,8 @@ El Salvador- 2024-01-19,Arrivals To Date,El Salvador,,10,,1/19/2024,Latest Censu
 Other- 2024-01-19,Arrivals To Date,Other,,10,,1/19/2024,Latest Census Update
 Unknown- 2024-01-19,"Requested Shelter, Past Week",Unknown,,3,,1/19/2024,Latest Census Update
 Unknown- 2024-01-19,Arrivals To Date,Unknown,,2568,,1/19/2024,Latest Census Update
+- 2024-01-12,"In Staging Area, Current",,Minors,,1,1/12/2024,Old Census Update
+- 2024-01-12,"Bus Arrivals, Past Week",,,,,1/12/2024,Old Census Update
 - 2024-01-12,Arrivals Placed In Shelters by 311 To Date,,,7155,,1/12/2024,Old Census Update
 - 2024-01-12,"In Shelter, Current",,Individuals in Family Unit,191,,1/12/2024,Old Census Update
 - 2024-01-12,Exited Shelter To Date,,,14579,,1/12/2024,Old Census Update
@@ -37,6 +42,7 @@ Unknown- 2024-01-19,Arrivals To Date,Unknown,,2568,,1/19/2024,Latest Census Upda
 - 2024-01-12,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,0,,1/12/2024,Old Census Update
 - 2024-01-12,"In Shelter, Current",,Single Men,126,,1/12/2024,Old Census Update
 - 2024-01-12,"Placed in Shelter, Past Week",,,355,,1/12/2024,Old Census Update
+- 2024-01-12,"In Shelter, Current",,Minors,,5033,1/12/2024,Old Census Update
 - 2024-01-12,"In Shelter, Current",,Single Women,27,,1/12/2024,Old Census Update
 - 2024-01-12,"Arrived via TX-contracted buses, Past Week",,,0,,1/12/2024,Old Census Update
 Venezuela- 2024-01-12,"Requested Shelter, Past Week",Venezuela,,13,,1/12/2024,Old Census Update
@@ -61,6 +67,7 @@ El Salvador- 2024-01-12,Arrivals To Date,El Salvador,,10,,1/12/2024,Old Census U
 Other- 2024-01-12,"Requested Shelter, Past Week",Other,,1,,1/12/2024,Old Census Update
 Unknown- 2024-01-12,Arrivals To Date,Unknown,,2727,,1/12/2024,Old Census Update
 Unknown- 2024-01-12,"Requested Shelter, Past Week",Unknown,,2,,1/12/2024,Old Census Update
+- 2024-01-05,"In Staging Area, Current",,Minors,,20,1/5/2024,Old Census Update
 - 2024-01-05,"In Shelter, Current",,Individuals in Family Unit,844,,1/5/2024,Old Census Update
 - 2024-01-05,Total Arrivals To Date,,,29657,,1/5/2024,Old Census Update
 - 2024-01-05,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,0,,1/5/2024,Old Census Update
@@ -68,8 +75,10 @@ Unknown- 2024-01-12,"Requested Shelter, Past Week",Unknown,,2,,1/12/2024,Old Cen
 - 2024-01-05,"Arrived via TX-contracted buses, Past Week",,,0,,1/5/2024,Old Census Update
 - 2024-01-05,Arrivals Placed In Shelters by 311 To Date,,,7138,,1/5/2024,Old Census Update
 - 2024-01-05,"Placed in Shelter, Past Week",,,1313,,1/5/2024,Old Census Update
+- 2024-01-05,"In Shelter, Current",,Minors,,5070,1/5/2024,Old Census Update
 - 2024-01-05,"In Shelter, Current",,Single Men,435,,1/5/2024,Old Census Update
 - 2024-01-05,"In Shelter, Current",,Single Women,113,,1/5/2024,Old Census Update
+- 2024-01-05,"Bus Arrivals, Past Week",,,,,1/5/2024,Old Census Update
 Venezuela- 2024-01-05,"Requested Shelter, Past Week",Venezuela,,36,,1/5/2024,Old Census Update
 Venezuela- 2024-01-05,Arrivals To Date,Venezuela,,10963,,1/5/2024,Old Census Update
 Colombia- 2024-01-05,Arrivals To Date,Colombia,,623,,1/5/2024,Old Census Update
@@ -95,13 +104,16 @@ Other- 2024-01-05,"Requested Shelter, Past Week",Other,,1,,1/5/2024,Old Census U
 Poland- 2024-01-05,"Requested Shelter, Past Week",Poland,,0,,1/5/2024,Old Census Update
 Unknown- 2024-01-05,"Requested Shelter, Past Week",Unknown,,4,,1/5/2024,Old Census Update
 Unknown- 2024-01-05,Arrivals To Date,Unknown,,3316,,1/5/2024,Old Census Update
+- 2023-12-29,"In Staging Area, Current",,Minors,,30,12/29/2023,Old Census Update
 - 2023-12-29,"In Shelter, Current",,Individuals in Family Unit,846,,12/29/2023,Old Census Update
 - 2023-12-29,Exited Shelter To Date,,,12799,,12/29/2023,Old Census Update
 - 2023-12-29,"Arrived via TX-contracted buses, Past Week",,,182,,12/29/2023,Old Census Update
+- 2023-12-29,"Bus Arrivals, Past Week",,,,,12/29/2023,Old Census Update
 - 2023-12-29,"Placed in Shelter, Past Week",,,182,,12/29/2023,Old Census Update
 - 2023-12-29,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,4,,12/29/2023,Old Census Update
 - 2023-12-29,Arrivals Placed In Shelters by 311 To Date,,,7105,,12/29/2023,Old Census Update
 - 2023-12-29,"In Shelter, Current",,Single Men,482,,12/29/2023,Old Census Update
+- 2023-12-29,"In Shelter, Current",,Minors,,5051,12/29/2023,Old Census Update
 - 2023-12-29,"In Shelter, Current",,Single Women,128,,12/29/2023,Old Census Update
 - 2023-12-29,Total Arrivals To Date,,,28261,,12/29/2023,Old Census Update
 Venezuela- 2023-12-29,Arrivals To Date,Venezuela,,10678,,12/29/2023,Old Census Update
@@ -127,14 +139,17 @@ Other- 2023-12-29,Arrivals To Date,Other,,10,,12/29/2023,Old Census Update
 Poland- 2023-12-29,"Requested Shelter, Past Week",Poland,,0,,12/29/2023,Old Census Update
 Unknown- 2023-12-29,"Requested Shelter, Past Week",Unknown,,0,,12/29/2023,Old Census Update
 Unknown- 2023-12-29,Arrivals To Date,Unknown,,3603,,12/29/2023,Old Census Update
+- 2023-12-22,"In Staging Area, Current",,Minors,,12,12/22/2023,Old Census Update
 - 2023-12-22,"In Shelter, Current",,Single Men,176,,12/22/2023,Old Census Update
 - 2023-12-22,"In Shelter, Current",,Single Women,35,,12/22/2023,Old Census Update
 - 2023-12-22,"Placed in Shelter, Past Week",,,667,,12/22/2023,Old Census Update
+- 2023-12-22,"In Shelter, Current",,Minors,,4998,12/22/2023,Old Census Update
 - 2023-12-22,Arrivals Placed In Shelters by 311 To Date,,,6986,,12/22/2023,Old Census Update
 - 2023-12-22,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,106,,12/22/2023,Old Census Update
 - 2023-12-22,"In Shelter, Current",,Individuals in Family Unit,250,,12/22/2023,Old Census Update
 - 2023-12-22,"Arrived via TX-contracted buses, Past Week",,,667,,12/22/2023,Old Census Update
 - 2023-12-22,Exited Shelter To Date,,,11893,,12/22/2023,Old Census Update
+- 2023-12-22,"Bus Arrivals, Past Week",,,,,12/22/2023,Old Census Update
 - 2023-12-22,Total Arrivals To Date,,,26492,,12/22/2023,Old Census Update
 Venezuela- 2023-12-22,Arrivals To Date,Venezuela,,10570,,12/22/2023,Old Census Update
 Venezuela- 2023-12-22,"Requested Shelter, Past Week",Venezuela,,76,,12/22/2023,Old Census Update
@@ -159,14 +174,17 @@ Other- 2023-12-22,Arrivals To Date,Other,,10,,12/22/2023,Old Census Update
 Poland- 2023-12-22,"Requested Shelter, Past Week",Poland,,0,,12/22/2023,Old Census Update
 Unknown- 2023-12-22,"Requested Shelter, Past Week",Unknown,,0,,12/22/2023,Old Census Update
 Unknown- 2023-12-22,Arrivals To Date,Unknown,,3360,,12/22/2023,Old Census Update
+- 2023-12-15,"In Staging Area, Current",,Minors,,29,12/15/2023,Old Census Update
 - 2023-12-15,"In Shelter, Current",,Individuals in Family Unit,642,,12/15/2023,Old Census Update
 - 2023-12-15,"In Shelter, Current",,Single Men,370,,12/15/2023,Old Census Update
 - 2023-12-15,Exited Shelter To Date,,,11069,,12/15/2023,Old Census Update
+- 2023-12-15,"In Shelter, Current",,Minors,,4857,12/15/2023,Old Census Update
 - 2023-12-15,Arrivals Placed In Shelters by 311 To Date,,,6801,,12/15/2023,Old Census Update
 - 2023-12-15,"Placed in Shelter, Past Week",,,1115,,12/15/2023,Old Census Update
 - 2023-12-15,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,309,,12/15/2023,Old Census Update
 - 2023-12-15,Total Arrivals To Date,,,25800,,12/15/2023,Old Census Update
 - 2023-12-15,"Arrived via TX-contracted buses, Past Week",,,1115,,12/15/2023,Old Census Update
+- 2023-12-15,"Bus Arrivals, Past Week",,,,,12/15/2023,Old Census Update
 - 2023-12-15,"In Shelter, Current",,Single Women,99,,12/15/2023,Old Census Update
 Venezuela- 2023-12-15,"Requested Shelter, Past Week",Venezuela,,104,,12/15/2023,Old Census Update
 Venezuela- 2023-12-15,Arrivals To Date,Venezuela,,10549,,12/15/2023,Old Census Update
@@ -190,12 +208,15 @@ Other- 2023-12-15,Arrivals To Date,Other,,10,,12/15/2023,Old Census Update
 Poland- 2023-12-15,"Requested Shelter, Past Week",Poland,,0,,12/15/2023,Old Census Update
 Unknown- 2023-12-15,Arrivals To Date,Unknown,,3052,,12/15/2023,Old Census Update
 Unknown- 2023-12-15,"Requested Shelter, Past Week",Unknown,,1,,12/15/2023,Old Census Update
+- 2023-12-08,"In Staging Area, Current",,Minors,,36,12/8/2023,Old Census Update
 - 2023-12-08,Arrivals Placed In Shelters by 311 To Date,,,6801,,12/8/2023,Old Census Update
+- 2023-12-08,"In Shelter, Current",,Minors,,4744,12/8/2023,Old Census Update
 - 2023-12-08,Exited Shelter To Date,,,10302,,12/8/2023,Old Census Update
 - 2023-12-08,"Arrived via TX-contracted buses, Past Week",,,1634,,12/8/2023,Old Census Update
 - 2023-12-08,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,386,,12/8/2023,Old Census Update
 - 2023-12-08,Total Arrivals To Date,,,24012,,12/8/2023,Old Census Update
 - 2023-12-08,"In Shelter, Current",,Individuals in Family Unit,955,,12/8/2023,Old Census Update
+- 2023-12-08,"Bus Arrivals, Past Week",,,,,12/8/2023,Old Census Update
 - 2023-12-08,"In Shelter, Current",,Single Women,140,,12/8/2023,Old Census Update
 - 2023-12-08,"In Shelter, Current",,Single Men,424,,12/8/2023,Old Census Update
 - 2023-12-08,"Placed in Shelter, Past Week",,,1634,,12/8/2023,Old Census Update
@@ -223,11 +244,14 @@ Unknown- 2023-12-08,"Requested Shelter, Past Week",Unknown,,1,,12/8/2023,Old Cen
 - 2023-12-01,"In Shelter, Current",,Single Men,3113,,12/1/2023,Old Census Update
 - 2023-12-01,Total Arrivals To Date,,,23387,,12/1/2023,Old Census Update
 - 2023-12-01,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,270,,12/1/2023,Old Census Update
+- 2023-12-01,"In Shelter, Current",,Minors,,4672,12/1/2023,Old Census Update
 - 2023-12-01,"Arrived via TX-contracted buses, Past Week",,,1175,,12/1/2023,Old Census Update
 - 2023-12-01,"In Shelter, Current",,Single Women,570,,12/1/2023,Old Census Update
 - 2023-12-01,"Placed in Shelter, Past Week",,,1170,,12/1/2023,Old Census Update
 - 2023-12-01,Exited Shelter To Date,,,8908,,12/1/2023,Old Census Update
+- 2023-12-01,"In Staging Area, Current",,Minors,,58,12/1/2023,Old Census Update
 - 2023-12-01,"In Shelter, Current",,Individuals in Family Unit,9501,,12/1/2023,Old Census Update
+- 2023-12-01,"Bus Arrivals, Past Week",,,,,12/1/2023,Old Census Update
 Venezuela- 2023-12-01,Arrivals To Date,Venezuela,,10146,,12/1/2023,Old Census Update
 Venezuela- 2023-12-01,"Requested Shelter, Past Week",Venezuela,,138,,12/1/2023,Old Census Update
 Colombia- 2023-12-01,"Requested Shelter, Past Week",Colombia,,7,,12/1/2023,Old Census Update
@@ -249,10 +273,13 @@ Other- 2023-12-01,Arrivals To Date,Other,,10,,12/1/2023,Old Census Update
 Unknown- 2023-12-01,"Requested Shelter, Past Week",Unknown,,2,,12/1/2023,Old Census Update
 Unknown- 2023-12-01,Arrivals To Date,Unknown,,2693,,12/1/2023,Old Census Update
 - 2023-11-24,"Placed in Shelter, Past Week",,,750,,11/24/2023,Old Census Update
+- 2023-11-24,"In Staging Area, Current",,,,303,11/24/2023,Old Census Update
 - 2023-11-24,Total Arrivals To Date,,,23000,,11/24/2023,Old Census Update
 - 2023-11-24,"In Shelter, Current",,Single Women,535,,11/24/2023,Old Census Update
 - 2023-11-24,"In Shelter, Current",,Single Men,3102,,11/24/2023,Old Census Update
+- 2023-11-24,"In Shelter, Current",,,,4339,11/24/2023,Old Census Update
 - 2023-11-24,"Arrived via TX-contracted buses, Past Week",,,1006,,11/24/2023,Old Census Update
+- 2023-11-24,"Bus Arrivals, Past Week",,,,,11/24/2023,Old Census Update
 - 2023-11-24,"In Shelter, Current",,Individuals in Family Unit,8845,,11/24/2023,Old Census Update
 - 2023-11-24,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,408,,11/24/2023,Old Census Update
 - 2023-11-24,Exited Shelter To Date,,,8908,,11/24/2023,Old Census Update
@@ -279,11 +306,14 @@ Other- 2023-11-24,Arrivals To Date,Other,,10,,11/24/2023,Old Census Update
 Unknown- 2023-11-24,"Requested Shelter, Past Week",Unknown,,9,,11/24/2023,Old Census Update
 Unknown- 2023-11-24,Arrivals To Date,Unknown,,2444,,11/24/2023,Old Census Update
 - 2023-11-17,Exited Shelter To Date,,,8280,,11/17/2023,Old Census Update
+- 2023-11-17,"In Shelter, Current",,,,4308,11/17/2023,Old Census Update
+- 2023-11-17,"In Staging Area, Current",,,,414,11/17/2023,Old Census Update
 - 2023-11-17,"In Shelter, Current",,Single Men,2827,,11/17/2023,Old Census Update
 - 2023-11-17,Total Arrivals To Date,,,23000,,11/17/2023,Old Census Update
 - 2023-11-17,"In Shelter, Current",,Individuals in Family Unit,8787,,11/17/2023,Old Census Update
 - 2023-11-17,"In Shelter, Current",,Single Women,459,,11/17/2023,Old Census Update
 - 2023-11-17,Arrivals Placed In Shelters by 311 To Date,,,5707,,11/17/2023,Old Census Update
+- 2023-11-17,"Bus Arrivals, Past Week",,,,,11/17/2023,Old Census Update
 - 2023-11-17,"Placed in Shelter, Past Week",,,500,,11/17/2023,Old Census Update
 - 2023-11-17,"Arrived via TX-contracted buses, Past Week",,,800,,11/17/2023,Old Census Update
 - 2023-11-17,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,365,,11/17/2023,Old Census Update
@@ -307,12 +337,15 @@ Cuba- 2023-11-17,Arrivals To Date,Cuba,,10,,11/17/2023,Old Census Update
 Other- 2023-11-17,Arrivals To Date,Other,,10,,11/17/2023,Old Census Update
 Unknown- 2023-11-17,"Requested Shelter, Past Week",Unknown,,3,,11/17/2023,Old Census Update
 Unknown- 2023-11-17,Arrivals To Date,Unknown,,2490,,11/17/2023,Old Census Update
+- 2023-11-10,"In Shelter, Current",,,,4286,11/10/2023,Old Census Update
 - 2023-11-10,Exited Shelter To Date,,,7959,,11/10/2023,Old Census Update
+- 2023-11-10,"In Staging Area, Current",,,,471,11/10/2023,Old Census Update
 - 2023-11-10,Total Arrivals To Date,,,20754,,11/10/2023,Old Census Update
 - 2023-11-10,"In Shelter, Current",,Single Men,2864,,11/10/2023,Old Census Update
 - 2023-11-10,"In Shelter, Current",,Single Women,472,,11/10/2023,Old Census Update
 - 2023-11-10,"In Shelter, Current",,Individuals in Family Unit,8748,,11/10/2023,Old Census Update
 - 2023-11-10,Arrivals Placed In Shelters by 311 To Date,,,5698,,11/10/2023,Old Census Update
+- 2023-11-10,"Bus Arrivals, Past Week",,,,,11/10/2023,Old Census Update
 - 2023-11-10,"Placed in Shelter, Past Week",,,988,,11/10/2023,Old Census Update
 - 2023-11-10,"Arrived via TX-contracted buses, Past Week",,,714,,11/10/2023,Old Census Update
 - 2023-11-10,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,327,,11/10/2023,Old Census Update
@@ -335,11 +368,14 @@ Cuba- 2023-11-10,Arrivals To Date,Cuba,,10,,11/10/2023,Old Census Update
 Other- 2023-11-10,Arrivals To Date,Other,,10,,11/10/2023,Old Census Update
 Unknown- 2023-11-10,"Requested Shelter, Past Week",Unknown,,2,,11/10/2023,Old Census Update
 Unknown- 2023-11-10,Arrivals To Date,Unknown,,2569,,11/10/2023,Old Census Update
+- 2023-11-03,"In Staging Area, Current",,,,731,11/3/2023,Old Census Update
+- 2023-11-03,"In Shelter, Current",,,,4117,11/3/2023,Old Census Update
 - 2023-11-03,Exited Shelter To Date,,,7553,,11/3/2023,Old Census Update
 - 2023-11-03,Total Arrivals To Date,,,20221,,11/3/2023,Old Census Update
 - 2023-11-03,"In Shelter, Current",,Single Men,2881,,11/3/2023,Old Census Update
 - 2023-11-03,"In Shelter, Current",,Single Women,474,,11/3/2023,Old Census Update
 - 2023-11-03,"In Shelter, Current",,Individuals in Family Unit,8354,,11/3/2023,Old Census Update
+- 2023-11-03,"Bus Arrivals, Past Week",,,,,11/3/2023,Old Census Update
 - 2023-11-03,Arrivals Placed In Shelters by 311 To Date,,,5586,,11/3/2023,Old Census Update
 - 2023-11-03,"Arrived via TX-contracted buses, Past Week",,,744,,11/3/2023,Old Census Update
 - 2023-11-03,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,346,,11/3/2023,Old Census Update
@@ -362,12 +398,15 @@ Cuba- 2023-11-03,Arrivals To Date,Cuba,,11,,11/3/2023,Old Census Update
 Other- 2023-11-03,Arrivals To Date,Other,,10,,11/3/2023,Old Census Update
 Unknown- 2023-11-03,"Requested Shelter, Past Week",Unknown,,6,,11/3/2023,Old Census Update
 Unknown- 2023-11-03,Arrivals To Date,Unknown,,2432,,11/3/2023,Old Census Update
+- 2023-10-27,"In Shelter, Current",,,,4119,10/27/2023,Old Census Update
+- 2023-10-27,"In Staging Area, Current",,,,803,10/27/2023,Old Census Update
 - 2023-10-27,Exited Shelter To Date,,,6523,,10/27/2023,Old Census Update
 - 2023-10-27,Total Arrivals To Date,,,19500,,10/27/2023,Old Census Update
 - 2023-10-27,"In Shelter, Current",,Single Men,2883,,10/27/2023,Old Census Update
 - 2023-10-27,"In Shelter, Current",,Individuals in Family Unit,8400,,10/27/2023,Old Census Update
 - 2023-10-27,"In Shelter, Current",,Single Women,466,,10/27/2023,Old Census Update
 - 2023-10-27,Arrivals Placed In Shelters by 311 To Date,,,5536,,10/27/2023,Old Census Update
+- 2023-10-27,"Bus Arrivals, Past Week",,,,,10/27/2023,Old Census Update
 - 2023-10-27,"Placed in Shelter, Past Week",,,471,,10/27/2023,Old Census Update
 - 2023-10-27,"Arrived via TX-contracted buses, Past Week",,,646,,10/27/2023,Old Census Update
 - 2023-10-27,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,329,,10/27/2023,Old Census Update
@@ -388,12 +427,15 @@ Cuba- 2023-10-27,Arrivals To Date,Cuba,,11,,10/27/2023,Old Census Update
 Other- 2023-10-27,Arrivals To Date,Other,,10,,10/27/2023,Old Census Update
 Unknown- 2023-10-27,"Requested Shelter, Past Week",Unknown,,13,,10/27/2023,Old Census Update
 Unknown- 2023-10-27,Arrivals To Date,Unknown,,2325,,10/27/2023,Old Census Update
+- 2023-10-20,"In Shelter, Current",,,,3881,10/20/2023,Old Census Update
+- 2023-10-20,"In Staging Area, Current",,,,886,10/20/2023,Old Census Update
 - 2023-10-20,Exited Shelter To Date,,,6523,,10/20/2023,Old Census Update
 - 2023-10-20,Total Arrivals To Date,,,18500,,10/20/2023,Old Census Update
 - 2023-10-20,"In Shelter, Current",,Single Men,2678,,10/20/2023,Old Census Update
 - 2023-10-20,"In Shelter, Current",,Single Women,465,,10/20/2023,Old Census Update
 - 2023-10-20,"In Shelter, Current",,Individuals in Family Unit,8135,,10/20/2023,Old Census Update
 - 2023-10-20,Arrivals Placed In Shelters by 311 To Date,,,5282,,10/20/2023,Old Census Update
+- 2023-10-20,"Bus Arrivals, Past Week",,,,,10/20/2023,Old Census Update
 - 2023-10-20,"Arrived via TX-contracted buses, Past Week",,,1180,,10/20/2023,Old Census Update
 - 2023-10-20,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,527,,10/20/2023,Old Census Update
 Venezuela- 2023-10-20,Arrivals To Date,Venezuela,,8639,,10/20/2023,Old Census Update
@@ -416,12 +458,15 @@ Cuba- 2023-10-20,Arrivals To Date,Cuba,,11,,10/20/2023,Old Census Update
 Other- 2023-10-20,Arrivals To Date,Other,,10,,10/20/2023,Old Census Update
 Unknown- 2023-10-20,"Requested Shelter, Past Week",Unknown,,4,,10/20/2023,Old Census Update
 Unknown- 2023-10-20,Arrivals To Date,Unknown,,2216,,10/20/2023,Old Census Update
+- 2023-10-13,"In Shelter, Current",,,,3881,10/13/2023,Old Census Update
+- 2023-10-13,"In Staging Area, Current",,,,744,10/13/2023,Old Census Update
 - 2023-10-13,Exited Shelter To Date,,,6041,,10/13/2023,Old Census Update
 - 2023-10-13,Total Arrivals To Date,,,18500,,10/13/2023,Old Census Update
 - 2023-10-13,"In Shelter, Current",,Single Men,2637,,10/13/2023,Old Census Update
 - 2023-10-13,"In Shelter, Current",,Single Women,443,,10/13/2023,Old Census Update
 - 2023-10-13,"In Shelter, Current",,Individuals in Family Unit,7962,,10/13/2023,Old Census Update
 - 2023-10-13,Arrivals Placed In Shelters by 311 To Date,,,5096,,10/13/2023,Old Census Update
+- 2023-10-13,"Bus Arrivals, Past Week",,,,,10/13/2023,Old Census Update
 - 2023-10-13,"Placed in Shelter, Past Week",,,850,,10/13/2023,Old Census Update
 - 2023-10-13,"Arrived via TX-contracted buses, Past Week",,,1739,,10/13/2023,Old Census Update
 - 2023-10-13,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,820,,10/13/2023,Old Census Update
@@ -444,12 +489,15 @@ Africa- 2023-10-13,"Requested Shelter, Past Week",Africa,,3,,10/13/2023,Old Cens
 Other- 2023-10-13,Arrivals To Date,Other,,10,,10/13/2023,Old Census Update
 Unknown- 2023-10-13,"Requested Shelter, Past Week",Unknown,,5,,10/13/2023,Old Census Update
 Unknown- 2023-10-13,Arrivals To Date,Unknown,,2215,,10/13/2023,Old Census Update
+- 2023-10-06,"In Shelter, Current",,,,3556,10/6/2023,Old Census Update
+- 2023-10-06,"In Staging Area, Current",,,,737,10/6/2023,Old Census Update
 - 2023-10-06,Exited Shelter To Date,,,5498,,10/6/2023,Old Census Update
 - 2023-10-06,Total Arrivals To Date,,,18000,,10/6/2023,Old Census Update
 - 2023-10-06,"In Shelter, Current",,Single Men,2490,,10/6/2023,Old Census Update
 - 2023-10-06,"In Shelter, Current",,Single Women,449,,10/6/2023,Old Census Update
 - 2023-10-06,"In Shelter, Current",,Individuals in Family Unit,7281,,10/6/2023,Old Census Update
 - 2023-10-06,Arrivals Placed In Shelters by 311 To Date,,,5086,,10/6/2023,Old Census Update
+- 2023-10-06,"Bus Arrivals, Past Week",,,,,10/6/2023,Old Census Update
 - 2023-10-06,"Placed in Shelter, Past Week",,,1000,,10/6/2023,Old Census Update
 - 2023-10-06,"Arrived via TX-contracted buses, Past Week",,,2910,,10/6/2023,Old Census Update
 - 2023-10-06,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,850,,10/6/2023,Old Census Update
@@ -472,11 +520,14 @@ Brazil- 2023-10-06,Arrivals To Date,Brazil,,10,,10/6/2023,Old Census Update
 Other- 2023-10-06,Arrivals To Date,Other,,10,,10/6/2023,Old Census Update
 Unknown- 2023-10-06,"Requested Shelter, Past Week",Unknown,,2,,10/6/2023,Old Census Update
 Unknown- 2023-10-06,Arrivals To Date,Unknown,,2215,,10/6/2023,Old Census Update
+- 2023-09-29,"In Shelter, Current",,,,3178,9/29/2023,Old Census Update
 - 2023-09-29,Exited Shelter To Date,,,5498,,9/29/2023,Old Census Update
+- 2023-09-29,"In Staging Area, Current",,,,579,9/29/2023,Old Census Update
 - 2023-09-29,Total Arrivals To Date,,,15500,,9/29/2023,Old Census Update
 - 2023-09-29,"In Shelter, Current",,Single Men,2488,,9/29/2023,Old Census Update
 - 2023-09-29,"In Shelter, Current",,Single Women,446,,9/29/2023,Old Census Update
 - 2023-09-29,"In Shelter, Current",,Individuals in Family Unit,6427,,9/29/2023,Old Census Update
+- 2023-09-29,"Bus Arrivals, Past Week",,,,,9/29/2023,Old Census Update
 - 2023-09-29,Arrivals Placed In Shelters by 311 To Date,,,4939,,9/29/2023,Old Census Update
 - 2023-09-29,"Arrived via TX-contracted buses, Past Week",,,1532,,9/29/2023,Old Census Update
 - 2023-09-29,"Placed in Shelter, Past Week",,,1000,,9/29/2023,Old Census Update
@@ -498,12 +549,15 @@ Angola- 2023-09-29,Arrivals To Date,Angola,,20,,9/29/2023,Old Census Update
 Guatemala- 2023-09-29,Arrivals To Date,Guatemala,,10,,9/29/2023,Old Census Update
 Brazil- 2023-09-29,Arrivals To Date,Brazil,,10,,9/29/2023,Old Census Update
 Unknown- 2023-09-29,"Requested Shelter, Past Week",Unknown,,15,,9/29/2023,Old Census Update
+- 2023-09-22,"In Shelter, Current",,,,2676,9/22/2023,Old Census Update
 - 2023-09-22,Exited Shelter To Date,,,5322,,9/22/2023,Old Census Update
+- 2023-09-22,"In Staging Area, Current",,,,646,9/22/2023,Old Census Update
 - 2023-09-22,Total Arrivals To Date,,,14500,,9/22/2023,Old Census Update
 - 2023-09-22,"In Shelter, Current",,Single Men,2469,,9/22/2023,Old Census Update
 - 2023-09-22,"In Shelter, Current",,Single Women,416,,9/22/2023,Old Census Update
 - 2023-09-22,"In Shelter, Current",,Individuals in Family Unit,5475,,9/22/2023,Old Census Update
 - 2023-09-22,Arrivals Placed In Shelters by 311 To Date,,,4820,,9/22/2023,Old Census Update
+- 2023-09-22,"Bus Arrivals, Past Week",,,,,9/22/2023,Old Census Update
 - 2023-09-22,"Arrived via TX-contracted buses, Past Week",,,826,,9/22/2023,Old Census Update
 - 2023-09-22,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,480,,9/22/2023,Old Census Update
 - 2023-09-22,"Placed in Shelter, Past Week",,,1000,,9/22/2023,Old Census Update
@@ -525,11 +579,14 @@ Africa- 2023-09-22,"Requested Shelter, Past Week",Africa,,1,,9/22/2023,Old Censu
 Other- 2023-09-22,Arrivals To Date,Other,,10,,9/22/2023,Old Census Update
 Unknown- 2023-09-22,"Requested Shelter, Past Week",Unknown,,12,,9/22/2023,Old Census Update
 Unknown- 2023-09-22,Arrivals To Date,Unknown,,2085,,9/22/2023,Old Census Update
+- 2023-09-15,"In Staging Area, Current",,,,705,9/15/2023,Old Census Update
+- 2023-09-15,"In Shelter, Current",,,,2341,9/15/2023,Old Census Update
 - 2023-09-15,Exited Shelter To Date,,,5119,,9/15/2023,Old Census Update
 - 2023-09-15,"In Shelter, Current",,Single Women,411,,9/15/2023,Old Census Update
 - 2023-09-15,"In Shelter, Current",,Single Men,2260,,9/15/2023,Old Census Update
 - 2023-09-15,"In Shelter, Current",,Individuals in Family Unit,4759,,9/15/2023,Old Census Update
 - 2023-09-15,Total Arrivals To Date,,,14000,,9/15/2023,Old Census Update
+- 2023-09-15,"Bus Arrivals, Past Week",,,,,9/15/2023,Old Census Update
 - 2023-09-15,Arrivals Placed In Shelters by 311 To Date,,,4717,,9/15/2023,Old Census Update
 - 2023-09-15,"Arrived via TX-contracted buses, Past Week",,,602,,9/15/2023,Old Census Update
 - 2023-09-15,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,495,,9/15/2023,Old Census Update
@@ -551,12 +608,15 @@ Angola- 2023-09-15,Arrivals To Date,Angola,,19,,9/15/2023,Old Census Update
 Other- 2023-09-15,Arrivals To Date,Other,,10,,9/15/2023,Old Census Update
 Unknown- 2023-09-15,Arrivals To Date,Unknown,,1888,,9/15/2023,Old Census Update
 Unknown- 2023-09-15,"Requested Shelter, Past Week",Unknown,,4,,9/15/2023,Old Census Update
+- 2023-09-08,"In Staging Area, Current",,,,472,9/8/2023,Old Census Update
 - 2023-09-08,"In Shelter, Current",,Single Men,2265,,9/8/2023,Old Census Update
 - 2023-09-08,"In Shelter, Current",,Single Women,409,,9/8/2023,Old Census Update
 - 2023-09-08,"In Shelter, Current",,Individuals in Family Unit,4306,,9/8/2023,Old Census Update
 - 2023-09-08,Exited Shelter To Date,,,4840,,9/8/2023,Old Census Update
+- 2023-09-08,"In Shelter, Current",,,,2124,9/8/2023,Old Census Update
 - 2023-09-08,Total Arrivals To Date,,,13500,,9/8/2023,Old Census Update
 - 2023-09-08,Arrivals Placed In Shelters by 311 To Date,,,4706,,9/8/2023,Old Census Update
+- 2023-09-08,"Bus Arrivals, Past Week",,,,,9/8/2023,Old Census Update
 - 2023-09-08,"Arrived via TX-contracted buses, Past Week",,,518,,9/8/2023,Old Census Update
 - 2023-09-08,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,309,,9/8/2023,Old Census Update
 - 2023-09-08,"Placed in Shelter, Past Week",,,330,,9/8/2023,Old Census Update
@@ -581,6 +641,8 @@ Unknown- 2023-09-08,"Requested Shelter, Past Week",Unknown,,18,,9/8/2023,Old Cen
 Unknown- 2023-09-08,Arrivals To Date,Unknown,,1664,,9/8/2023,Old Census Update
 - 2023-09-01,Exited Shelter To Date,,,4499,,9/1/2023,Old Census Update
 - 2023-09-01,"In Shelter, Current",,Single Men,2268,,9/1/2023,Old Census Update
+- 2023-09-01,"In Shelter, Current",,,,1965,9/1/2023,Old Census Update
+- 2023-09-01,"In Staging Area, Current",,,,705,9/1/2023,Old Census Update
 - 2023-09-01,"In Shelter, Current",,Single Women,414,,9/1/2023,Old Census Update
 - 2023-09-01,"In Shelter, Current",,Individuals in Family Unit,3980,,9/1/2023,Old Census Update
 - 2023-09-01,Total Arrivals To Date,,,13500,,9/1/2023,Old Census Update
@@ -608,6 +670,8 @@ Unknown- 2023-09-01,"Requested Shelter, Past Week",Unknown,,10,,9/1/2023,Old Cen
 - 2023-08-25,"In Shelter, Current",,Single Women,399,,8/25/2023,Old Census Update
 - 2023-08-25,"In Shelter, Current",,Individuals in Family Unit,3869,,8/25/2023,Old Census Update
 - 2023-08-25,Exited Shelter To Date,,,4225,,8/25/2023,Old Census Update
+- 2023-08-25,"In Shelter, Current",,,,1897,8/25/2023,Old Census Update
+- 2023-08-25,"In Staging Area, Current",,,,473,8/25/2023,Old Census Update
 - 2023-08-25,Total Arrivals To Date,,,13000,,8/25/2023,Old Census Update
 - 2023-08-25,"Placed in Shelter, Past Week",,,142,,8/25/2023,Old Census Update
 - 2023-08-25,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,248,,8/25/2023,Old Census Update
@@ -634,6 +698,8 @@ Unknown- 2023-08-25,Arrivals To Date,Unknown,,1592,,8/25/2023,Old Census Update
 - 2023-08-18,"In Shelter, Current",,Single Women,394,,8/18/2023,Old Census Update
 - 2023-08-18,"In Shelter, Current",,Individuals in Family Unit,3754,,8/18/2023,Old Census Update
 - 2023-08-18,Exited Shelter To Date,,,4124,,8/18/2023,Old Census Update
+- 2023-08-18,"In Shelter, Current",,,,1805,8/18/2023,Old Census Update
+- 2023-08-18,"In Staging Area, Current",,,,316,8/18/2023,Old Census Update
 - 2023-08-18,Total Arrivals To Date,,,13000,,8/18/2023,Old Census Update
 - 2023-08-18,"Placed in Shelter, Past Week",,,426,,8/18/2023,Old Census Update
 - 2023-08-18,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,393,,8/18/2023,Old Census Update
@@ -657,6 +723,8 @@ Unknown- 2023-08-18,Arrivals To Date,Unknown,,1574,,8/18/2023,Old Census Update
 Unknown- 2023-08-18,"Requested Shelter, Past Week",Unknown,,6,,8/18/2023,Old Census Update
 - 2023-08-11,"In Shelter, Current",,Single Men,2204,,8/11/2023,Old Census Update
 - 2023-08-11,Exited Shelter To Date,,,3995,,8/11/2023,Old Census Update
+- 2023-08-11,"In Shelter, Current",,,,1739,8/11/2023,Old Census Update
+- 2023-08-11,"In Staging Area, Current",,,,316,8/11/2023,Old Census Update
 - 2023-08-11,"In Shelter, Current",,Single Women,392,,8/11/2023,Old Census Update
 - 2023-08-11,"In Shelter, Current",,Individuals in Family Unit,3532,,8/11/2023,Old Census Update
 - 2023-08-11,Total Arrivals To Date,,,12000,,8/11/2023,Old Census Update
@@ -684,6 +752,8 @@ Unknown- 2023-08-11,Arrivals To Date,Unknown,,1526,,8/11/2023,Old Census Update
 Unknown- 2023-08-11,"Requested Shelter, Past Week",Unknown,,2,,8/11/2023,Old Census Update
 - 2023-08-04,"In Shelter, Current",,Single Men,2206,,8/4/2023,Old Census Update
 - 2023-08-04,Exited Shelter To Date,,,3840,,8/4/2023,Old Census Update
+- 2023-08-04,"In Shelter, Current",,,,1714,8/4/2023,Old Census Update
+- 2023-08-04,"In Staging Area, Current",,,,257,8/4/2023,Old Census Update
 - 2023-08-04,"In Shelter, Current",,Single Women,375,,8/4/2023,Old Census Update
 - 2023-08-04,"In Shelter, Current",,Individuals in Family Unit,3473,,8/4/2023,Old Census Update
 - 2023-08-04,Total Arrivals To Date,,,12000,,8/4/2023,Old Census Update
@@ -708,9 +778,11 @@ Other- 2023-08-04,"Requested Shelter, Past Week",Other,,2,,8/4/2023,Old Census U
 Other- 2023-08-04,Arrivals To Date,Other,,10,,8/4/2023,Old Census Update
 Unknown- 2023-08-04,Arrivals To Date,Unknown,,1506,,8/4/2023,Old Census Update
 - 2023-07-28,"In Shelter, Current",,Single Men,2214,,7/28/2023,Old Census Update
+- 2023-07-28,"In Shelter, Current",,,,1560,7/28/2023,Old Census Update
 - 2023-07-28,"In Shelter, Current",,Single Women,369,,7/28/2023,Old Census Update
 - 2023-07-28,"In Shelter, Current",,Individuals in Family Unit,3180,,7/28/2023,Old Census Update
 - 2023-07-28,Exited Shelter To Date,,,3670,,7/28/2023,Old Census Update
+- 2023-07-28,"In Staging Area, Current",,,,295,7/28/2023,Old Census Update
 - 2023-07-28,Total Arrivals To Date,,,11500,,7/28/2023,Old Census Update
 - 2023-07-28,"Placed in Shelter, Past Week",,,354,,7/28/2023,Old Census Update
 - 2023-07-28,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,128,,7/28/2023,Old Census Update
@@ -738,7 +810,9 @@ Unknown- 2023-07-28,"Requested Shelter, Past Week",Unknown,,5,,7/28/2023,Old Cen
 - 2023-07-21,"In Shelter, Current",,Single Men,2119,,7/21/2023,Old Census Update
 - 2023-07-21,"In Shelter, Current",,Single Women,359,,7/21/2023,Old Census Update
 - 2023-07-21,"In Shelter, Current",,Individuals in Family Unit,2933,,7/21/2023,Old Census Update
+- 2023-07-21,"In Staging Area, Current",,,,290,7/21/2023,Old Census Update
 - 2023-07-21,Exited Shelter To Date,,,3465,,7/21/2023,Old Census Update
+- 2023-07-21,"In Shelter, Current",,,,1437,7/21/2023,Old Census Update
 - 2023-07-21,Total Arrivals To Date,,,11500,,7/21/2023,Old Census Update
 - 2023-07-21,"Placed in Shelter, Past Week",,,364,,7/21/2023,Old Census Update
 - 2023-07-21,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,119,,7/21/2023,Old Census Update
@@ -762,10 +836,12 @@ Other- 2023-07-21,Arrivals To Date,Other,,10,,7/21/2023,Old Census Update
 Other- 2023-07-21,"Requested Shelter, Past Week",Other,,1,,7/21/2023,Old Census Update
 Panama- 2023-07-21,"Requested Shelter, Past Week",Panama,,1,,7/21/2023,Old Census Update
 Unknown- 2023-07-21,Arrivals To Date,Unknown,,1456,,7/21/2023,Old Census Update
+- 2023-07-14,"In Shelter, Current",,,,1400,7/14/2023,Old Census Update
 - 2023-07-14,"In Shelter, Current",,Single Men,2058,,7/14/2023,Old Census Update
 - 2023-07-14,"In Shelter, Current",,Single Women,340,,7/14/2023,Old Census Update
 - 2023-07-14,"In Shelter, Current",,Individuals in Family Unit,2807,,7/14/2023,Old Census Update
 - 2023-07-14,Exited Shelter To Date,,,3246,,7/14/2023,Old Census Update
+- 2023-07-14,"In Staging Area, Current",,,,115,7/14/2023,Old Census Update
 - 2023-07-14,Total Arrivals To Date,,,11000,,7/14/2023,Old Census Update
 - 2023-07-14,"Placed in Shelter, Past Week",,,158,,7/14/2023,Old Census Update
 - 2023-07-14,"Arrived via TX-contracted buses with Personal Movement Plans, Past Week",,,161,,7/14/2023,Old Census Update
@@ -785,6 +861,8 @@ Guatemala- 2023-07-14,"Requested Shelter, Past Week",Guatemala,,1,,7/14/2023,Old
 El Salvador- 2023-07-14,Arrivals To Date,El Salvador,,10,,7/14/2023,Old Census Update
 Other- 2023-07-14,Arrivals To Date,Other,,10,,7/14/2023,Old Census Update
 Unknown- 2023-07-14,Arrivals To Date,Unknown,,1419,,7/14/2023,Old Census Update
+- 2023-07-07,"In Shelter, Current",,,,1359,7/7/2023,Old Census Update
+- 2023-07-07,"In Staging Area, Current",,,,220,7/7/2023,Old Census Update
 - 2023-07-07,Exited Shelter To Date,,,2542,,7/7/2023,Old Census Update
 - 2023-07-07,"In Shelter, Current",,Single Men,2034,,7/7/2023,Old Census Update
 - 2023-07-07,"In Shelter, Current",,Single Women,317,,7/7/2023,Old Census Update
@@ -808,9 +886,11 @@ Guatemala- 2023-07-07,"Requested Shelter, Past Week",Guatemala,,1,,7/7/2023,Old 
 El Salvador- 2023-07-07,Arrivals To Date,El Salvador,,11,,7/7/2023,Old Census Update
 Other- 2023-07-07,Arrivals To Date,Other,,10,,7/7/2023,Old Census Update
 Unknown- 2023-07-07,Arrivals To Date,Unknown,,1363,,7/7/2023,Old Census Update
+- 2023-06-30,"In Staging Area, Current",,,,213,6/30/2023,Old Census Update
 - 2023-06-30,"In Shelter, Current",,Single Men,2011,,6/30/2023,Old Census Update
 - 2023-06-30,"In Shelter, Current",,Single Women,325,,6/30/2023,Old Census Update
 - 2023-06-30,"In Shelter, Current",,Individuals in Family Unit,2736,,6/30/2023,Old Census Update
+- 2023-06-30,"In Shelter, Current",,,,1317,6/30/2023,Old Census Update
 - 2023-06-30,Total Arrivals To Date,,,11000,,6/30/2023,Old Census Update
 - 2023-06-30,"Placed in Shelter, Past Week",,,56,,6/30/2023,Old Census Update
 - 2023-06-30,Arrivals Placed In Shelters by 311 To Date,,,3868,,6/30/2023,Old Census Update
@@ -830,6 +910,8 @@ Other- 2023-06-30,"Requested Shelter, Past Week",Other,,4,,6/30/2023,Old Census 
 Other- 2023-06-30,Arrivals To Date,Other,,10,,6/30/2023,Old Census Update
 Unknown- 2023-06-30,"Requested Shelter, Past Week",Unknown,,6,,6/30/2023,Old Census Update
 Unknown- 2023-06-30,Arrivals To Date,Unknown,,1315,,6/30/2023,Old Census Update
+- 2023-06-23,"In Shelter, Current",,,,1288,6/23/2023,Old Census Update
+- 2023-06-23,"In Staging Area, Current",,,,73,6/23/2023,Old Census Update
 - 2023-06-23,"In Shelter, Current",,Single Women,300,,6/23/2023,Old Census Update
 - 2023-06-23,"In Shelter, Current",,Single Men,1870,,6/23/2023,Old Census Update
 - 2023-06-23,"In Shelter, Current",,Individuals in Family Unit,2708,,6/23/2023,Old Census Update
@@ -858,6 +940,8 @@ Other- 2023-06-23,Arrivals To Date,Other,,10,,6/23/2023,Old Census Update
 Russia- 2023-06-23,Arrivals To Date,Russia,,11,,6/23/2023,Old Census Update
 Unknown- 2023-06-23,"Requested Shelter, Past Week",Unknown,,5,,6/23/2023,Old Census Update
 Unknown- 2023-06-23,Arrivals To Date,Unknown,,1249,,6/23/2023,Old Census Update
+- 2023-06-16,"In Shelter, Current",,,,1219,6/16/2023,Old Census Update
+- 2023-06-16,"In Staging Area, Current",,,,35,6/16/2023,Old Census Update
 - 2023-06-16,"In Shelter, Current",,Single Men,1632,,6/16/2023,Old Census Update
 - 2023-06-16,"In Shelter, Current",,Single Women,247,,6/16/2023,Old Census Update
 - 2023-06-16,"In Shelter, Current",,Individuals in Family Unit,2814,,6/16/2023,Old Census Update
