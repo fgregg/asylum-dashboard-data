@@ -1,11 +1,8 @@
 .PHONY : all
-all : data/housing_locations.csv data/counts_by_housing.csv data/census.csv
+all : data/housing_census.csv data/movement_to_date.csv
 
-data/housing_locations.csv :
-	python scripts/fetch.py https://airtable.com/appO5SjrHmmAvfP27/shrYnsCb5j4NnoWTG/tblgI0KbgdTmF2YkJ > $@
+data/housing_census.csv :
+	wget -O $@ "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1mJPaYOGURV6AjYOMEAAS03vAa3ZUpgKeS8UJHV_3xcx141VSTX3MRnHXp_Y7TeD9jFJF4iCHjXYI/pub?output=csv&gid=0"
 
-data/counts_by_housing.csv :
-	python scripts/fetch.py https://airtable.com/appO5SjrHmmAvfP27/shrVriXoMaxrstx6J/tblpyIyCHnFKNyqNk > $@
-
-data/census.csv :
-	python scripts/fetch.py https://airtable.com/appO5SjrHmmAvfP27/shrY831lrVyARjFXm/tblwMC5zIjt6pINLx > $@
+data/movement_to_date.csv :
+	wget -O $@ "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1mJPaYOGURV6AjYOMEAAS03vAa3ZUpgKeS8UJHV_3xcx141VSTX3MRnHXp_Y7TeD9jFJF4iCHjXYI/pub?output=csv&gid=1910089974"
